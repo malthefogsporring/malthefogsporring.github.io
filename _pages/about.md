@@ -22,4 +22,5 @@ STACK is an open source online assessment system for STEM subjects. It is design
 * Designing the STACK website.
 * Editing [a collection of case studies](https://docs.stack-assessment.org/content/2019-cate-case-studies.pdf) of STACK users.
 * Developing a [video tutorial series](http://docs.stack-assessment.org/en/Authoring/Authoring_quick_start/) for STACK.
-I will gladly answer questions about STACK, see my contact info.
+
+I will happily answer questions about STACK, see my contact info.
