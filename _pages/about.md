@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Malthe Sporring"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-# Malthe Sporring
 I am a PhD student at the University of Edinburgh under the supervision of Professor Clark Barwick. I am interested in homotopy theory and related areas: algebraic topology, (higher) category theory, stratified and chromatic homotopy theory. I am also interested in mathematical education, and have experience in technology-assisted education via the [online assessment system STACK](https://stack-assessment.org/).
 
 ### Notes
