@@ -20,7 +20,7 @@ The following are informal notes on various topics. Comments and corrections are
 ### STACK
 STACK is an open source online assessment system for STEM subjects. It is designed to automate undergraduate level formative and summative assessment in a clever way. In particular, it puts very few limits on the sorts of questions that can be asked and has flexibility for giving useful feedback tailored to each student's answers. It is also designed to be fair on students and in particular students are not penalised for poor computer syntax. For more information on STACK, see [stack-assessment.org](https://stack-assessment.org/). I have been involved in STACK since 2019, here are some highlights of my contributions:
 * Designing the STACK website.
-* Editing [a collection of case studies](https://docs.stack-assessment.org/content/2019-cate-case-studies.pdf) of STACK users.
+* Editing [a collection of case studies](https://docs.stack-assessment.org/content/2019-cate-case-studies.pdf) for STACK.
 * Developing a [video tutorial series](http://docs.stack-assessment.org/en/Authoring/Authoring_quick_start/) for STACK.
 
 I will happily answer questions about STACK, see my contact info.
