@@ -13,7 +13,7 @@ I am a PhD student at the University of Edinburgh under the supervision of Profe
 ## Notes
 The following are informal notes on various topics. Comments and corrections are more than welcome.
 
-### [![pdf](../images/pdf25.png) **Axiomatic homology**](https://raw.githubusercontent.com/malthefogsporring/homology/main/main.pdf) 
+### [![pdf](../images/pdf25.png)](https://raw.githubusercontent.com/malthefogsporring/homology/main/main.pdf)  Axiomatic homology
 > Undergraduate notes on axiomatic homology theory. Homology is typically introduced as singular homology, and theorems are then proven explicitly using chain calculations. We take a different approach, defining a homology theory axiomatically as by Eilenberg and Steenrod, and then prove classical theorems directly from the axioms. This project was supervised by Prof. Clark Barwick and funded by the University of Edinburgh School of Mathematics Vacation Scholarship and College Vacation Scholarship funds.
 
 ## Reading groups
