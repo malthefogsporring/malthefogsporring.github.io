@@ -29,5 +29,4 @@ STACK is an open source online assessment system for STEM subjects. I have been 
 </details>
 
 <details><summary><h1>Contact</h1></summary>
-I am based at the Maxwell Institute for Mathematical Sciences in the Bayes Centre. 
 My email address is Malthe (dot) Sporring (at) ed (dot) ac (dot) uk.</details>
