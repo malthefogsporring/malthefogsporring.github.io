@@ -19,7 +19,7 @@ The following are informal notes on various topics. Comments and corrections are
 </summary>
   <ul><li>(2022) <b>Commutative Algebra</b>. A reading group on commutative algebra, following the book by David Eisenbud.</li></ul>
 </details>
-
+<br><br>
 <details><summary><h1>STACK</h1></summary>
 STACK is an open source online assessment system for STEM subjects. I have been involved in STACK since 2019 - here are some of my contributions:
 <ul>
