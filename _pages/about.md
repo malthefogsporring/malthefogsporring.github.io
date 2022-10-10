@@ -10,7 +10,7 @@ redirect_from:
 
 I am a PhD student at the University of Edinburgh under the supervision of Professor Clark Barwick. I am interested in homotopy theory and related areas: algebraic topology, (higher) category theory, stratified and chromatic homotopy theory. I am also an experienced user of the online assessment system [STACK](https://stack-assessment.org/). When I'm not thinking about mathematics I may be hiking or swing dancing.
 
-<details><summary><h2 display:inline>Notes</h2>
+<h2><details><summary>Notes</h2>
 </summary>
 The following are informal notes on various topics. Comments and corrections are welcomed.
 <br><h3><a href = "https://raw.githubusercontent.com/malthefogsporring/homology/main/main.pdf"> <img src="../images/pdf25.png" alt="png"></a> Axiomatic homology theory</h3>
