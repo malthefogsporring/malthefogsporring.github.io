@@ -10,8 +10,8 @@ redirect_from:
 
 I am a PhD student at the University of Edinburgh under the supervision of Professor Clark Barwick. I am interested in homotopy theory and related areas: algebraic topology, (higher) category theory, stratified and chromatic homotopy theory. I am also an experienced user of the online assessment system [STACK](https://stack-assessment.org/). When I'm not thinking about mathematics I may be hiking or swing dancing.
 
-<details><h2><summary>Notes</h2>
-</summary>
+<details><h2><summary>Notes
+</summary></h2>
 The following are informal notes on various topics. Comments and corrections are welcomed.
 <br><h3><a href = "https://raw.githubusercontent.com/malthefogsporring/homology/main/main.pdf"> <img src="../images/pdf25.png" alt="png"></a> Axiomatic homology theory</h3>
 <blockquote> Undergraduate notes on axiomatic homology theory. Homology is typically introduced as singular homology, with theorems proven explicitly using chain calculations. We take a different approach, defining a homology theory axiomatically as by Eilenberg and Steenrod, and then proving classical theorems directly from the axioms. This project was supervised by Prof. Clark Barwick and funded by the University of Edinburgh School of Mathematics Vacation Scholarship and College Vacation Scholarship funds.</blockquote></details><details><summary><h2 display:inline>Reading groups</h2>
