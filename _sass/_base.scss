@@ -27,6 +27,8 @@ h1, h2, h3, h4, h5, h6 {
   font-family: $header-font-family;
   font-weight: bold;
   display:inline;
+  padding-top:1em;
+  padding-bottom:1em;
 }
 
 h1 {
@@ -313,4 +315,9 @@ nav {
 b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a, tr, td, form button, input[type="submit"], .btn, .highlight, .archive__item-teaser {
   -webkit-transition: $global-transition;
   transition: $global-transition;
+}
+
+/*CUSTOM*/
+ul.no-bullets {
+  list-style-type: none; /* Remove bullets */
 }
