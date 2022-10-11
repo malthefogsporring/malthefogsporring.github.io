@@ -13,13 +13,13 @@ ul.no-bullets {
 }
 </style>
 
-I am a PhD student of Professor Clark Barwick at the University of Edinburgh. I am interested in homotopy theory and related areas: algebraic topology, (higher) category theory, stratified and chromatic homotopy theory. I am also an experienced user of the online assessment system [STACK](https://stack-assessment.org/). When I'm not thinking about mathematics I may be hiking or swing dancing.
+I am a PhD student of Professor Clark Barwick at the University of Edinburgh. I am interested in homotopy theory and related areas: algebraic topology, (higher) category theory, stratified and chromatic homotopy theory. I am also an experienced user of the online assessment system <a href="https://stack-assessment.org/" target="_blank" rel="noopener noreferrer">STACK</a>. When I'm not thinking about mathematics I may be hiking or swing dancing.
 
 <details><summary><h1>Notes</h1></summary>
 Informal notes on various topics. Comments and corrections are welcomed.
 <br>
 <ul class="no-bullets">
-  <li><details><summary><h3><a href = "https://raw.githubusercontent.com/malthefogsporring/homology/main/main.pdf"><img src="../images/pdf25.png" alt="png"></a> Axiomatic homology theory</h3></summary><blockquote> Undergraduate notes on axiomatic homology theory. Homology is typically introduced as singular homology, with theorems proven explicitly using chain calculations. We take a different approach, defining a homology theory axiomatically as by Eilenberg and Steenrod, and then proving classical theorems directly from the axioms. This project was supervised by Prof. Clark Barwick and funded by the University of Edinburgh School of Mathematics Vacation Scholarship and College Vacation Scholarship funds.</blockquote></details></li>
+  <li><details><summary><h3><a href = "https://raw.githubusercontent.com/malthefogsporring/homology/main/main.pdf" target="_blank" rel="noopener noreferrer"><img src="../images/pdf25.png" alt="png"></a> Axiomatic homology theory</h3></summary><blockquote> Undergraduate notes on axiomatic homology theory. Homology is typically introduced as singular homology, with theorems proven explicitly using chain calculations. We take a different approach, defining a homology theory axiomatically as by Eilenberg and Steenrod, and then proving classical theorems directly from the axioms. This project was supervised by Prof. Clark Barwick and funded by the University of Edinburgh School of Mathematics Vacation Scholarship and College Vacation Scholarship funds.</blockquote></details></li>
 </ul></details>
 
 <details><summary><h1>Reading groups</h1>
@@ -30,9 +30,9 @@ Informal notes on various topics. Comments and corrections are welcomed.
 <details><summary><h1>STACK</h1></summary>
 STACK is an open source online assessment system for STEM subjects. I have been involved in STACK since 2019 - here are some of my contributions:
 <ul>
-  <li>Designing the STACK website <a href="https://stack-assessment.org/">stack-assessment.org</a>.</li>
-  <li>Editing <a href="https://docs.stack-assessment.org/content/2019-cate-case-studies.pdf">a collection of case studies</a>.</li>
-  <li>Developing a <a href="http://docs.stack-assessment.org/en/Authoring/Authoring_quick_start/">video tutorial series</a>.</li></ul>
+  <li>Designing the STACK website <a href="https://stack-assessment.org/" target="_blank" rel="noopener noreferrer">stack-assessment.org</a>.</li>
+  <li>Editing <a href="https://docs.stack-assessment.org/content/2019-cate-case-studies.pdf" target="_blank" rel="noopener noreferrer">a collection of case studies</a>.</li>
+  <li>Developing a <a href="http://docs.stack-assessment.org/en/Authoring/Authoring_quick_start/" target="_blank" rel="noopener noreferrer">video tutorial series</a>.</li></ul>
 </details>
 
 <details><summary><h1>Contact</h1></summary>
