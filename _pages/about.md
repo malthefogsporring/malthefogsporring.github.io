@@ -13,7 +13,7 @@ ul.no-bullets {
 }
 </style>
 
-I am a PhD student of Professor Clark Barwick at the University of Edinburgh. I am interested in homotopy theory and related areas: algebraic topology, category theory low and high, stratified and chromatic homotopy theory. I am also an experienced user of the online assessment system <a href="https://stack-assessment.org/" target="_blank" rel="noopener noreferrer">STACK</a>. When I'm not thinking about mathematics I may be hiking or swing dancing.
+I am a PhD student of Clark Barwick at the University of Edinburgh. I am interested in homotopy theory and related topics: algebraic topology, pyknotic structures, chromatic homotopy theory, and (higher) category theory. I am also an experienced user of the online assessment system <a href="https://stack-assessment.org/" target="_blank" rel="noopener noreferrer">STACK</a>. When I'm not thinking about mathematics I may be hiking or swing dancing.
 
 <details><summary><h1>Notes</h1></summary>
 Informal notes on various topics. Comments and corrections are welcomed.
