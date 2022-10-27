@@ -29,8 +29,8 @@ Informal notes on various topics. Comments and corrections are welcomed.
 
 <details><summary><h1>Travel</h1>
 </summary>
-  <table><tr><td>July 2022</td> <td><b><a href = "https://www.math.ku.dk/english/calendar/events/ytm2022/">Young Topologists Meeting 2022</a></b></td><td>Copenhagen</td></tr>
-  <tr><td>October 2022</td> <td><b><a href = "https://www.mpim-bonn.mpg.de/node/11136">Conference on "Algebraic Topology, in memory of Hans-Joachim Baues"</a></b></td><td>Bonn</td></tr></table>
+  <table><tr><td>July 2022</td> <td><b><a href = "https://www.math.ku.dk/english/calendar/events/ytm2022/" target="_blank">Young Topologists Meeting 2022</a></b></td><td>Copenhagen</td></tr>
+  <tr><td>October 2022</td> <td><b><a href = "https://www.mpim-bonn.mpg.de/node/11136" target="_blank">Conference on "Algebraic Topology, in memory of Hans-Joachim Baues"</a></b></td><td>Bonn</td></tr></table>
 </details>
 
 <details><summary><h1>STACK</h1></summary>
