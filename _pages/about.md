@@ -27,6 +27,12 @@ Informal notes on various topics. Comments and corrections are welcomed.
   <ul><li>(2022) <b>Commutative Algebra</b>. A reading group on commutative algebra, following the book by David Eisenbud.</li></ul>
 </details>
 
+<details><summary><h1>Travel</h1>
+</summary>
+  <ul><li>(July 2022) <b><a href = "https://www.math.ku.dk/english/calendar/events/ytm2022/">Young Topologists Meeting 2022</a></b>. Copenhagen.</li>
+  <li>(October 2022) <b><a href = "[https://www.math.ku.dk/english/calendar/events/ytm2022](https://www.mpim-bonn.mpg.de/node/11136)/">Conference on "Algebraic Topology, in memory of Hans-Joachim Baues"</a></b>. Bonn.</li></ul>
+</details>
+
 <details><summary><h1>STACK</h1></summary>
 STACK is an open source online assessment system for STEM subjects. I have been involved in STACK since 2019 - here are some of my contributions:
 <ul>
