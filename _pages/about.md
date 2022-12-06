@@ -22,6 +22,11 @@ Informal notes on various topics. Comments and corrections are welcomed.
   <li><details><summary><h3><a href = "https://raw.githubusercontent.com/malthefogsporring/homology/main/main.pdf" target="_blank" rel="noopener noreferrer"><img src="../images/pdf25.png" alt="png"></a> Axiomatic homology theory</h3></summary><blockquote> Undergraduate notes on axiomatic homology theory. Homology is typically introduced as singular homology, with theorems proven explicitly using chain calculations. We take a different approach, defining a homology theory axiomatically as by Eilenberg and Steenrod, and then proving classical theorems directly from the axioms. This project was supervised by Prof. Clark Barwick and funded by the University of Edinburgh School of Mathematics Vacation Scholarship and College Vacation Scholarship funds.</blockquote></details></li>
 </ul></details>
 
+<details><summary><h1>Talks</h1>
+</summary>
+  <ul><li><a href = "/files/ultrafilter.pdf" target="_blank" rel="noopener noreferrer"><img src="../images/pdf25.png" alt="png"></a><b>The ultrafilter monad</b>. GLaMS Example showcase (November 2022).</li></ul>
+</details>
+
 <details><summary><h1>Reading groups</h1>
 </summary>
   <ul><li>(2022) <b>Commutative Algebra</b>. A reading group on commutative algebra, following the book by David Eisenbud.</li></ul>
