@@ -26,11 +26,11 @@ Informal notes on various topics. Comments and corrections are welcomed.
 </summary>
   <ul><li><a href = "/files/ultrafilter.pdf" target="_blank" rel="noopener noreferrer"><img src="../images/pdf25.png" alt="png"></a><b>The ultrafilter monad</b>. GLaMS Example showcase (November 2022).</li></ul>
 </details>
-
 <details><summary><h1>Reading groups</h1>
 </summary>
-  <ul><li>(2022) <b>Commutative Algebra</b>. A reading group on commutative algebra, following the book by David Eisenbud.</li></ul>
+  <ul><li>(2022) <b>Commutative Algebra</b>. A reading group on commutative algebra, following the book by David Eisenbud. Organised with <a href="https://capnjackbevs.github.io/" target="_blank">Will Bevington</a>.</li></ul>
 </details>
+
 
 <details><summary><h1>Travel</h1>
 </summary>
