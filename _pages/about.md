@@ -28,7 +28,7 @@ Informal notes on various topics. Comments and corrections are welcomed.
 </details>
 <details><summary><h1>Reading groups</h1>
 </summary>
-  <ul><li>(2022) <b>Commutative Algebra</b>. A reading group on commutative algebra, following the book by David Eisenbud. Organised with <a href="https://capnjackbevs.github.io/" target="_blank">Will Bevington</a>.</li></ul>
+  <ul><li>(2022) <b>Commutative Algebra</b>. A reading group on commutative algebra, following <a href="https://www.math.ens.psl.eu/~benoist/refs/Eisenbud.pdf/" target="_blank">the book by David Eisenbud</a>. Organised with <a href="https://capnjackbevs.github.io/" target="_blank">Will Bevington</a>.</li></ul>
 </details>
 
 
