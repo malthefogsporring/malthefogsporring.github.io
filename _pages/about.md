@@ -44,7 +44,8 @@ STACK is an open source online assessment system for STEM subjects. I have been 
 <ul>
   <li>Designing the STACK website <a href="https://stack-assessment.org/" target="_blank" rel="noopener noreferrer">stack-assessment.org</a>.</li>
   <li>Editing <a href="https://docs.stack-assessment.org/content/2019-cate-case-studies.pdf" target="_blank" rel="noopener noreferrer">a collection of case studies</a>.</li>
-  <li>Developing a <a href="http://docs.stack-assessment.org/en/Authoring/Authoring_quick_start/" target="_blank" rel="noopener noreferrer">video tutorial series</a>.</li></ul>
+  <li>Developing a <a href="http://docs.stack-assessment.org/en/Authoring/Authoring_quick_start/" target="_blank" rel="noopener noreferrer">video tutorial series</a>.</li>
+  <li>Designing STACK quizzes for The University of Edinburgh, Heriot-Watt University and The University of Glasgow.</li></ul>
 </details>
 
 <details><summary><h1>Contact</h1></summary>
