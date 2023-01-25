@@ -18,11 +18,10 @@ I am a PhD student of <a href="https://www.maths.ed.ac.uk/~cbarwick/" target="_b
 <details><summary><h1>Notes</h1></summary>
 Informal notes on various topics. Comments and corrections are welcomed.
 <br>
-<ul class="no-bullets"><!--<li><details><summary><h3><a href = "https://raw.githubusercontent.com/malthefogsporring/spectral-sequences/main/main.pdf" target="_blank" rel="noopener noreferrer"><img src="../images/pdf25.png" alt="png"></a> Spectral sequences</h3></summary><blockquote> (January 2023) An evolving set of notes on spectral sequences, with focus on the Serre and Adams spectral sequences.</blockquote></details></li></ul>-->
+<ul class="no-bullets"><li><details><summary><h3><a href = "https://raw.githubusercontent.com/malthefogsporring/k-theory/main/main.pdf" target="_blank" rel="noopener noreferrer"><img src="../images/pdf25.png" alt="png"></a> Topological K-theory</h3></summary><blockquote> (January 2023) Notes from a Winter 2023 eCHT graduate course on K-Theory. Joint with Adrián Doña Mateo and <a href="https://capnjackbevs.github.io/" target="_blank" rel="noopener noreferrer">Will Bevington</a>.</blockquote></details></li><!--<li><details><summary><h3><a href = "https://raw.githubusercontent.com/malthefogsporring/spectral-sequences/main/main.pdf" target="_blank" rel="noopener noreferrer"><img src="../images/pdf25.png" alt="png"></a> Spectral sequences</h3></summary><blockquote> (January 2023) An evolving set of notes on spectral sequences, with focus on the Serre and Adams spectral sequences.</blockquote></details></li></ul>-->
 <li><details><summary><h3><a href = "https://raw.githubusercontent.com/malthefogsporring/persistent-homology/main/main.pdf" target="_blank" rel="noopener noreferrer"><img src="../images/pdf25.png" alt="png"></a> Persistent homology</h3></summary><blockquote> (December 2022) Notes on persistent homology, as part of a GlaMS (Glasgow-Maxwell school) group project. Joint with <a href="https://yanyauc.com/" target="_blank" rel="noopener noreferrer">Yan Yau Cheng</a> and Adrián Doña Mateo.</blockquote></details></li>  
 <li><details><summary><h3><a href = "https://raw.githubusercontent.com/malthefogsporring/homology/main/main.pdf" target="_blank" rel="noopener noreferrer"><img src="../images/pdf25.png" alt="png"></a> Axiomatic homology theory</h3></summary><blockquote> (September 2021) Undergraduate notes on axiomatic homology theory. Homology is typically introduced as singular homology, with theorems proven explicitly using chain calculations. We take a different approach, defining a homology theory axiomatically as by Eilenberg and Steenrod, and then proving classical theorems directly from the axioms. This project was supervised by Prof. Clark Barwick and funded by the University of Edinburgh School of Mathematics Vacation Scholarship and College Vacation Scholarship funds.</blockquote></details></li>
 </ul></details>
-
 
 
 <details><summary><h1>Talks</h1>
@@ -30,16 +29,19 @@ Informal notes on various topics. Comments and corrections are welcomed.
   <ul><li><a href = "/files/ultrafilter.pdf" target="_blank" rel="noopener noreferrer"><img src="../images/pdf25.png" alt="png"></a><b>The ultrafilter monad</b>. GLaMS Example showcase (November 2022).</li></ul>
 </details>
 <details><summary><h1>Reading groups</h1>
+I have taken part in organising a number of reading groups and seminar series.
 </summary>
-  <ul><li>(2022) <b>Commutative Algebra</b>. A reading group on commutative algebra, following <a href="https://www.math.ens.psl.eu/~benoist/refs/Eisenbud.pdf/" target="_blank">the book by David Eisenbud</a>. Organised with <a href="https://capnjackbevs.github.io/" target="_blank">Will Bevington</a>.</li></ul>
+  <ul><li>(2023) <b><a href ="https://capnjackbevs.github.io/cht.html" target="_blank">Chromatic homotopy theory.</a></b> A seminar series at the University of Edinburgh, organised with <a href="https://www.maths.ed.ac.uk/~cbarwick/" target="_blank">Clark Barwick</a> and <a href="https://capnjackbevs.github.io/" target="_blank">Will Bevington</a>.</li>
+      <li>(2022-23) <b>Commutative Algebra</b>. A reading group on commutative algebra, following <a href="https://www.math.ens.psl.eu/~benoist/refs/Eisenbud.pdf/" target="_blank">the book by David Eisenbud</a>. Organised with <a href="https://capnjackbevs.github.io/" target="_blank">Will Bevington</a>.</li></ul>
 </details>
 
-
-<details><summary><h1>Travel</h1>
+<!--<details><summary><h1>Travel</h1>
 </summary>
+
   <table><tr><td>July 2022</td> <td><b><a href = "https://www.math.ku.dk/english/calendar/events/ytm2022/" target="_blank">Young Topologists Meeting 2022</a></b></td><td>Copenhagen</td></tr>
   <tr><td>October 2022</td> <td><b><a href = "https://www.mpim-bonn.mpg.de/node/11136" target="_blank">Conference on "Algebraic Topology, in memory of Hans-Joachim Baues"</a></b></td><td>Bonn</td></tr></table>
-</details>
+</details>-->
+
 
 <details><summary><h1>STACK</h1></summary>
 STACK is an open source online assessment system for STEM subjects. I have been involved in STACK since 2019 - here are some of my contributions:
