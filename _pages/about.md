@@ -28,9 +28,15 @@ Informal notes on various topics. Comments and corrections are welcomed.
 </summary>
   <ul><li><a href = "/files/ultrafilter.pdf" target="_blank" rel="noopener noreferrer"><img src="../images/pdf25.png" alt="png"></a><b>The ultrafilter monad</b>. GLaMS Example showcase (November 2022).</li></ul>
 </details>
+
+<details><summary><h1>Teaching</h1>
+</summary>
+	<h3>Tutoring</h3>
+    <ul><li>(Spring 2023) Algebraic Topology, Edinburgh</li><li>(Spring 2023) Fundamentals of Pure Mathematics, Edinburgh</li></ul>
+</details>
+
 <details><summary><h1>Reading groups</h1>
 </summary>
-    I have taken part in organising a number of reading groups and seminar series.
   <ul><li>(2023) <b><a href ="https://capnjackbevs.github.io/cht.html" target="_blank">Chromatic homotopy theory.</a></b> A seminar series at the University of Edinburgh, organised with <a href="https://www.maths.ed.ac.uk/~cbarwick/" target="_blank">Clark Barwick</a> and <a href="https://capnjackbevs.github.io/" target="_blank">Will Bevington</a>.</li>
       <li>(2022-23) <b>Commutative Algebra</b>. A reading group on commutative algebra, following <a href="https://www.math.ens.psl.eu/~benoist/refs/Eisenbud.pdf/" target="_blank">the book by David Eisenbud</a>. Organised with <a href="https://capnjackbevs.github.io/" target="_blank">Will Bevington</a>.</li></ul>
 </details>
