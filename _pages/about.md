@@ -31,8 +31,8 @@ Informal notes on various topics. Comments and corrections are welcomed.
 
 <details><summary><h1>Teaching</h1>
 </summary>
-	<h3>Tutoring</h3>
-    <ul><li>(Spring 2023) Algebraic Topology, Edinburgh</li><li>(Spring 2023) Fundamentals of Pure Mathematics, Edinburgh</li></ul>
+	<h3>Tutoring - Edinburgh</h3>
+    <ul><li>(Spring 2023) Algebraic Topology</li><li>(Spring 2023) Fundamentals of Pure Mathematics</li></ul>
 </details>
 
 <details><summary><h1>Reading groups</h1>
