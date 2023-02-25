@@ -1,8 +1,7 @@
 ---
-permalink: /
-title: "Infinity-categories"
-excerpt: "Reading group on infinity-categories"
-author_profile: true
+permalink: /infinity-categories/
+title: "∞-categories"
+excerpt: "Reading group on ∞-categories"
 redirect_from: 
   - /infinity-categories/
   - /infinity-categories.html
@@ -12,8 +11,6 @@ ul.no-bullets {
   list-style-type: none;
 }
 </style>
-# ∞-categories
-
 This is a reading group on ∞-categories in the model of quasi-categories, focusing on basic constructions. Our main references will be "Introduction to Infinity-categories" by Markus Land and Kerodon: https://kerodon.net/. The reading group is organized joint with [Willow Bevington](https://capnjackbevs.github.io/) and Adrián Doña Mateo.
 
 We meet every Thursday at 2PM in JCMB 5323. Hybrid participation is also possible - please get in touch at Malthe (dot) Sporring (at) ed.ac.uk
