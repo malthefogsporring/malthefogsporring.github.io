@@ -14,7 +14,7 @@ We meet every Thursday at 2PM in JCMB 5323. Hybrid participation is also possibl
 
 ### Tentative schedule
 
-| **Date** and location    | **Speaker**       | **Topic** and references                                     | **Notes** and recording |
+| Date and location        | Speaker           | Topic and references                                         | Notes and recording     |
 | ------------------------ | ----------------- | ------------------------------------------------------------ | ----------------------- |
 | 2/3/23 - JCMB 5323       | Adrián Doña Mateo | Simplicial sets.<br />*Land: Section 1.1*<br />*Kerodon: Section 1.1-1.2* |                         |
 | 9/3/23 - JCMB 5323       |                   | ∞-categories<br />*Land: Section 1.2*<br />*Kerodon: Section 1.3-1.4* |                         |
