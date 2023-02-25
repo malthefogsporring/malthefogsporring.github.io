@@ -2,8 +2,6 @@
 permalink: /infinity-categories/
 title: "∞-categories"
 excerpt: "Reading group on ∞-categories"
-redirect_from: 
-  - /infinity-categories.html
 ---
 <style>
 ul.no-bullets {
