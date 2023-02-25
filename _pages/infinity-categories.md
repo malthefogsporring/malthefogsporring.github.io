@@ -9,11 +9,11 @@ ul.no-bullets {
   list-style-type: none;
 }
 </style>
-This is a reading group on ∞-categories in the model of quasi-categories, focusing on basic constructions. Our main references are "Introduction to Infinity-categories" by Markus Land, [Kerodon](https://kerodon.net/) by Jacob Lurie, and occasionally "Higher Topos Theory" by Jacob Lurie. 
-
-The reading group is organized joint with [Willow Bevington](https://capnjackbevs.github.io/) and Adrián Doña Mateo.
+This is a reading group on ∞-categories in the model of quasi-categories, focusing on basic constructions. Our main references are "Introduction to Infinity-categories" by Markus Land, [Kerodon](https://kerodon.net/) by Jacob Lurie, and occasionally "Higher Topos Theory" by Jacob Lurie. We will take turns speaking - please volunteer!
 
 We meet every Thursday at 2PM in JCMB 5323. Hybrid participation is also possible - please get in touch at Malthe (dot) Sporring (at) ed.ac.uk to be added to the mailing list.
+
+The reading group is organized joint with [Willow Bevington](https://capnjackbevs.github.io/) and Adrián Doña Mateo.
 
 ### Tentative schedule
 
