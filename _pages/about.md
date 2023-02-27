@@ -28,9 +28,10 @@ Informal notes on various topics. Comments and corrections are welcomed.
 
 <details><summary><h1>Talks</h1>
 </summary>
-  <ul><li><b>Topological K-Theory</b>. <a href = "/files/ultrafilter.pdf" target="_blank" rel="noopener noreferrer">Hodge Club</a> (February 2023).</li>
-  <li><a href = "https://hodge.maths.ed.ac.uk/tiki/Hodge+Club" target="_blank" rel="noopener noreferrer"><img src="../images/pdf25.png" alt="png"></a><b>The ultrafilter monad</b>. GLaMS Example showcase (November 2022).</li></ul>
+  <ul><li><b>Topological K-Theory</b>. <a href = "https://hodge.maths.ed.ac.uk/tiki/Hodge+Club" target="_blank" rel="noopener noreferrer">Hodge Club</a> (February 2023).</li>
+  <li><a href = "/files/ultrafilter.pdf" target="_blank" rel="noopener noreferrer"><img src="../images/pdf25.png" alt="png"></a><b>The ultrafilter monad</b>. GLaMS Example showcase (November 2022).</li></ul>
 </details>
+
 
 <details><summary><h1>Teaching</h1>
 </summary>

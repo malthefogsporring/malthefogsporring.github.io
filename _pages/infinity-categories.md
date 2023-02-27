@@ -1,6 +1,6 @@
 ---
 permalink: /infinity-categories/
-title: "∞-categories"
+title: "Reading group on ∞-categories"
 author_profile: false
 excerpt: "Reading group on ∞-categories"
 ---
