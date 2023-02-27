@@ -22,14 +22,14 @@ The reading group is organized joint with [Willow Bevington](https://capnjackbev
 | 2/3/23 - JCMB 5323       | Adrián Doña Mateo | Simplicial sets.<br />*Land: Section 1.1*<br />*Kerodon: Section 1.1-1.2* |                     |
 | 9/3/23 - JCMB 5323       | Malthe Sporring   | ∞-categories<br />*Land: Section 1.2*<br />*Kerodon: Section 1.3-1.4* |                     |
 | 16/3/23 - JCMB 5323      |                   | Anodyne maps and fibrations<br />*Land: Section 1.3*         |                     |
-| 23/3/23 - JCMB 5323      |                   | Joins and slices<br />*Land: Section 1.4*                    |                     |
+| 23/3/23 -       |                   | Joins and slices<br />*Land: Section 1.4*                    |                     |
 | 30/3/23 - **No meeting** |                   |                                                              |                     |
-| 4/4/23 - **No meeting**  |                   |                                                              |                     |
-| 11/4/23 - JCMB 5323      |                   | Joyal's lifting theorem<br />*Land: Section 2.1*             |                     |
-| 18/4/23 - JCMB 5323      |                   | Localisations and (co)cartesian fibrations<br />*Land: Section 2.4-3.1* |                     |
-| 25/4/23 - JCMB 5323      | Willow Bevington  | Straightening-unstraightening<br />*Land: Section 3.3*<br />*HTT: ?* |                     |
-| 2/5/23 - JCMB 5323       |                   | (Co)limits and Yoneda<br />*Land: Chapter 4*                 |                     |
-| 9/5/23 - JCMB 5323       |                   | Adjunctions<br />*Land: Chapter 5*                           |                     |
-| 16/5/23 - JCMB 5323      |                   | Stable ∞-categories                                          |                     |
-| 23/5/23 - JCMB 5323      | Malthe Sporring   | The ∞-category of spectra                                    |                     |
+| 6/4/23 - **No meeting**  |                   |                                                              |                     |
+| 13/4/23 - JCMB 5323      |                   | Joyal's lifting theorem<br />*Land: Section 2.1*             |                     |
+| 20/4/23 - JCMB 5323      |                   | Localisations and (co)cartesian fibrations<br />*Land: Section 2.4-3.1* |                     |
+| 27/4/23 - JCMB 5323      | Willow Bevington  | Straightening-unstraightening<br />*Land: Section 3.3*<br />*HTT: ?* |                     |
+| 4/5/23 - JCMB 5323       |                   | (Co)limits and Yoneda<br />*Land: Chapter 4*                 |                     |
+| 11/5/23 - JCMB 5323       |                   | Adjunctions<br />*Land: Chapter 5*                           |                     |
+| 18/5/23 - JCMB 5323      |                   | Stable ∞-categories                                          |                     |
+| 25/5/23 - JCMB 5323      | Malthe Sporring   | The ∞-category of spectra                                    |                     |
 
