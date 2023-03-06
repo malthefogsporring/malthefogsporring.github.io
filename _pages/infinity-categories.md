@@ -17,11 +17,11 @@ The reading group is organized joint with [Willow Bevington](https://capnjackbev
 
 ### Tentative schedule
 
-| Date and location        | Speaker           | Topic and references                                         | Notes and recording |
+| Date and location        | Speaker           | Topic and references                                         | Recording |
 | ------------------------ | ----------------- | ------------------------------------------------------------ | ------------------- |
-| 2/3/23 - JCMB 5323       | Adrián Doña Mateo | Simplicial sets.<br />*Land: Section 1.1*<br />*Kerodon: Section 1.1-1.2* |                     |
+| 2/3/23 - JCMB 5323       | Adrián Doña Mateo | Simplicial sets.<br />*Land: Section 1.1*<br />*Kerodon: Section 1.1-1.2* |  |
 | 9/3/23 - JCMB 5323       | Malthe Sporring   | ∞-categories<br />*Land: Section 1.2*<br />*Kerodon: Section 1.3-1.4* |                     |
-| 16/3/23 - JCMB 5323      |                   | Anodyne maps and fibrations<br />*Land: Section 1.3*         |                     |
+| 16/3/23 - JCMB 5323      | Iordanis Romaidis | Anodyne maps and fibrations<br />*Land: Section 1.3*         |                     |
 | 23/3/23 -       |                   | Joins and slices<br />*Land: Section 1.4*                    |                     |
 | 30/3/23 - **No meeting** |                   |                                                              |                     |
 | 6/4/23 - **No meeting**  |                   |                                                              |                     |
