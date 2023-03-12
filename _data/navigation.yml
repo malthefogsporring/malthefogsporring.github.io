@@ -5,3 +5,10 @@ main:
 
 - title: "Algebraic geometry"
   url: /algebraic-geometry
+
+ -  title: "Reading groups"
+    subfolderitems:
+      - page: "∞-categories"
+        url: /infinity-categories
+      - page: "Algebraic geometry"
+        url: /algebraic-geometry
