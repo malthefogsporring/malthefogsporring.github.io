@@ -21,7 +21,7 @@ The reading group is organized joint with [Willow Bevington](https://capnjackbev
 | ------------------------ | ----------------- | ------------------------------------------------------------ | ------------------- |
 | 2/3/23 - JCMB 5323       | Adrián Doña Mateo | Simplicial sets.<br />*Land: Section 1.1*<br />*Kerodon: Section 1.1-1.2* |  |
 | 9/3/23 - JCMB 5323 | Adrián Doña Mateo | Simplicial sets II | [Recording](https://ed-ac-uk.zoom.us/rec/share/dgzoQQW-6Q7uaSwZV_IyOKUYKCuSywCsLiG88TBhZHYy2KaY0tEhJEKTvRB80Rej.g69VlpNP6kml5q9l?startTime=1678370535000) |
-| 16/3/23 - online | Malthe Sporring   | ∞-categories<br />*Land: Section 1.2*<br />*Kerodon: Section 1.3-1.4* | [Recording](https://ed-ac-uk.zoom.us/rec/share/gsb1yXdbocdGzB9XDoD1Al1zWR8_CZS70PLMZT4A6vT11nJFRS_sE2tVrYm-JxfJ.C-V7goz0duHXstk8) |
+| 16/3/23 - online | Malthe Sporring   | ∞-categories<br />*Land: Section 1.2*<br />*Kerodon: Section 1.3-1.4* | [Notes](/files/16-3-23-infinity-categories.pdf)<br />[Recording](https://ed-ac-uk.zoom.us/rec/share/gsb1yXdbocdGzB9XDoD1Al1zWR8_CZS70PLMZT4A6vT11nJFRS_sE2tVrYm-JxfJ.C-V7goz0duHXstk8) |
 | 23/3/23 - | Malthe Sporring | Simplicially enriched categories<br />*Land: Section 1.2* |                     |
 | 30/3/23 - **No meeting** |                   |                     |                     |
 | 6/4/23 - |                   | Anodyne maps and fibrations<br />*Land: Section 1.3* |                     |
