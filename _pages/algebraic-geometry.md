@@ -31,4 +31,5 @@ The reading group is organized joint with [Willow Bevington](https://capnjackbev
 | 19/5/23 -                |                 | Dimension<br />*Chapter 11*                      |       |
 | 26/5/23 -                |                 | Regularity and smoothness<br />*Chapter 12*      |       |
 | 2/6/23 -                 |                 | Quasicoherent sheaves<br />*Chapter 13*          |       |
+| More to come...? | |  | |
 
