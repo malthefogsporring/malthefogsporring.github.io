@@ -28,8 +28,8 @@ The reading group is organized joint with [Willow Bevington](https://capnjackbev
 | 28/4/23 -                |                 | Morphisms of schemes II<br />*Chapter 7* |       |
 | 5/5/23 -                 |                 | Closed embeddings<br />*Chapter 8* |       |
 | 12/5/23 -                |                 | Fibered products of schemes<br />*Chapter 9* |       |
-| 19/5/23 -                |                 | Separated and proper morphisms<br />*Chapter 10* |       |
-| 26/5/23 -                | Isambard Goodbody | Regularity and smoothness<br />*Chapter 12*      |       |
-| 2/6/23 -                 |                 | Quasicoherent sheaves<br />*Chapter 13*          |       |
+| 19/5/23 - Bayes 5.46     |                 | Separated and proper morphisms<br />*Chapter 10* |       |
+| 26/5/23 - Bayes 5.46     | Isambard Goodbody | Regularity and smoothness<br />*Chapter 12*      |       |
+| 2/6/23 - Bayes 5.46      | Karim Rega | Quasicoherent sheaves<br />*Chapter 13*          |       |
 | More to come...? | | More on quasicoherent sheaves<br />*Chapter 14-18* :) | |
 
