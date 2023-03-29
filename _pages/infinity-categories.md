@@ -17,13 +17,13 @@ The reading group is organized joint with [Willow Bevington](https://capnjackbev
 
 ### Tentative schedule
 
-| Date and location        | Speaker           | Topic and references                                         | Recording |
+| Date and location        | Speaker           | Topic and references                                         | Notes & Recording |
 | ------------------------ | ----------------- | ------------------------------------------------------------ | ------------------- |
 | 2/3/23 - JCMB 5323       | Adrián Doña Mateo | Simplicial sets.<br />*Land: Section 1.1*<br />*Kerodon: Section 1.1-1.2* |  |
 | 9/3/23 - JCMB 5323 | Adrián Doña Mateo | Simplicial sets II | [Recording](https://ed-ac-uk.zoom.us/rec/share/dgzoQQW-6Q7uaSwZV_IyOKUYKCuSywCsLiG88TBhZHYy2KaY0tEhJEKTvRB80Rej.g69VlpNP6kml5q9l?startTime=1678370535000) |
 | 16/3/23 - Online | Malthe Sporring   | ∞-categories<br />*Land: Section 1.2*<br />*Kerodon: Section 1.3-1.4* | [Notes](/files/16-3-23-infinity-categories.pdf)<br />[Recording](https://ed-ac-uk.zoom.us/rec/share/gsb1yXdbocdGzB9XDoD1Al1zWR8_CZS70PLMZT4A6vT11nJFRS_sE2tVrYm-JxfJ.C-V7goz0duHXstk8) |
 | 23/3/23 - JCMB 3211 | Malthe Sporring | Enriched categories<br />*Land: Section 1.2* | [Notes](/files/23-3-23-enriched-categories.pdf) |
-| 30/3/23 - | Adrián Doña Mateo | Simplicially enriched categories |                     |
+| 30/3/23 - JCMB 3211 | Adrián Doña Mateo | Simplicially enriched categories |                     |
 | 6/4/23 - JCMB 5326 | Iordanis Romaidis | Anodyne maps and fibrations<br />*Land: Section 1.3* |                     |
 | 13/4/23 - JCMB 5323 |  | Joins and slices<br />*Land: Section 1.4* |                     |
 | 20/4/23 - JCMB 5323 |                   | Joyal's lifting theorem<br />*Land: Section 2.1*-2.3         |                     |
