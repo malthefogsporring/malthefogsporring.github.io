@@ -22,7 +22,7 @@ The reading group is organized joint with [Willow Bevington](https://capnjackbev
 | 17/3/23 - Bayes 5.46 | Malthe Sporring | Sheaves<br />*Chapter 2* | [Notes](/files/17-3-23-sheaves.pdf)<br />[Recording](https://ed-ac-uk.zoom.us/rec/share/mKsKT7lPGb-CyqJTvqVzOn7CP84uhkW-vuTmV0RfR_wKE3OF5oRDMJ0Pmla9tZel.ElcfQDqbBQ8U7dXo) |
 | 24/3/23 - Bayes 5.46     | Danil Koževnikov | Toward schemes<br />*Chapter 3*                       | [Recording](https://ed-ac-uk.zoom.us/rec/share/XlK_6Byl8e97ygEKGzUnoNzbtR9AMfOfMC7NCQQ0Bf9WdlBFcNQCWo3XtGAP4lky.Wb6NTeCg9a8YkiQB) |
 | 31/3/23 - **No meeting** |  |                                                  |       |
-| 7/4/23 - Bayes 5.46      | Joseph Malbon | The structure sheaf<br />*Chapter 4* |       |
+| 7/4/23 - Bayes 5.46      | Karim Réga | The structure sheaf<br />*Chapter 4* |       |
 | 14/4/23 - Bayes 5.46     |                 | Properties of schemes<br />*Chapter 5* |       |
 | 21/4/23 -                |                 | Morphisms of schemes<br />*Chapter 6* |       |
 | 28/4/23 -                |                 | Morphisms of schemes II<br />*Chapter 7* |       |
