@@ -40,11 +40,12 @@ Informal notes on various topics. Comments and corrections are welcomed.
 </details>
 <details><summary><h1>Reading groups and seminar series</h1>
 </summary>
-  <ul><li>(2023) <b><a href ="https://malthefogsporring.github.io/algebraic-geometry/">Eisenboaties.</a></b> A reading group on "The Rising Sea" by Ravi Vakil. Organised with <a href="https://capnjackbevs.github.io/" target="_blank">Willow Bevington</a>.</li>
-      <li>(2023) <b><a href ="https://malthefogsporring.github.io/infinity-categories/">∞-categories.</a></b> A reading group on ∞-categories, following the book by Land. Organised with <a href="https://capnjackbevs.github.io/" target="_blank">Willow Bevington</a> and Adrián Doña Mateo.</li>
-  <li>(2023) <b><a href ="https://capnjackbevs.github.io/cht.html" target="_blank">Chromatic homotopy theory.</a></b> A seminar series at the University of Edinburgh, organised with <a href="https://www.maths.ed.ac.uk/~cbarwick/" target="_blank">Clark Barwick</a> and <a href="https://capnjackbevs.github.io/" target="_blank">Willow Bevington</a>.</li>
-      <li>(2022-23) <b>Eisenbuddies</b>. A reading group on commutative algebra, following <a href="https://www.math.ens.psl.eu/~benoist/refs/Eisenbud.pdf/" target="_blank">the book by David Eisenbud</a>. Organised with <a href="https://capnjackbevs.github.io/" target="_blank">Willow Bevington</a>.</li></ul>
+  <ul><li>(Spring 2023) <b><a href ="https://malthefogsporring.github.io/algebraic-geometry/">Eisenboaties.</a></b> A reading group on "The Rising Sea" by Ravi Vakil. With <a href="https://capnjackbevs.github.io/" target="_blank">Willow Bevington</a>.</li>
+      <li>(Spring 2023) <b><a href ="https://malthefogsporring.github.io/infinity-categories/">∞-categories.</a></b> A reading group on ∞-categories, following the book by Land. With <a href="https://capnjackbevs.github.io/" target="_blank">Willow Bevington</a> and Adrián Doña Mateo.</li>
+  <li>(Spring 2023) <b><a href ="https://capnjackbevs.github.io/cht.html" target="_blank">Chromatic homotopy theory.</a></b> With <a href="https://www.maths.ed.ac.uk/~cbarwick/" target="_blank">Clark Barwick</a> and <a href="https://capnjackbevs.github.io/" target="_blank">Willow Bevington</a>.</li>
+      <li>(Fall 2022) <b>Eisenbuddies</b>. A reading group on commutative algebra, following <a href="https://www.math.ens.psl.eu/~benoist/refs/Eisenbud.pdf/" target="_blank">the book by David Eisenbud</a>. With <a href="https://capnjackbevs.github.io/" target="_blank">Willow Bevington</a>.</li></ul>
 </details>
+
 
 
 
