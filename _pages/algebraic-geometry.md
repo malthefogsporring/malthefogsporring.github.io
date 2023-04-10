@@ -24,9 +24,9 @@ The reading group is organized joint with [Willow Bevington](https://capnjackbev
 | 31/3/23 - No meeting |  |                                                  |       |
 | 7/4/23 - Bayes 5.46      | Karim Réga | The structure sheaf<br />*Chapter 4* | [Recording](https://ed-ac-uk.zoom.us/rec/share/QZvYb_Wp3ImbTJWlHVr_n_DYPdojf0u0HqrsNNS6_nH8LD2E0M7gN8AFUceqi-8E.ixfiV68rbRfFdfQQ)<br />[Notes](/files/7-4-23-structure-sheaf.pdf) |
 | 14/4/23 - Bayes 5.46     | Parth Shimpi | Properties of schemes<br />*Chapter 5* |       |
-| 21/4/23 -               |                 | Morphisms of schemes<br />*Chapter 6* |       |
-| 28/4/23 -               |                 | Morphisms of schemes II<br />*Chapter 7* |       |
-| 5/5/23 -                |                 | Closed embeddings<br />*Chapter 8* |       |
+| 21/4/23 - Appleton Tower 2.11 |                 | Morphisms of schemes<br />*Chapter 6* |       |
+| 28/4/23 - Appleton Tower 2.11 |                 | Morphisms of schemes II<br />*Chapter 7* |       |
+| 5/5/23 - 40 George Square 11.18 |                 | Closed embeddings<br />*Chapter 8* |       |
 | 12/5/23 - JCMB 5323      |                 | Fibered products of schemes<br />*Chapter 9* |       |
 | 19/5/23 - Bayes 5.46     | Yan Yau Cheng | Separated and proper morphisms<br />*Chapter 10* |       |
 | 26/5/23 - Bayes 5.46     | Isambard Goodbody | Regularity and smoothness<br />*Chapter 12*      |       |
