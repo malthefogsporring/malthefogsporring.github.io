@@ -26,8 +26,8 @@ The reading group is organized joint with [Willow Bevington](https://capnjackbev
 | 30/3/23 - JCMB 3211 | Adrián Doña Mateo | Simplicially enriched categories | [Recording](https://ed-ac-uk.zoom.us/rec/share/6hL4yVmRCQwQPU0ZJB0ILbbSQE14zyB0i-lmQ-rM4m9ivGuEcRLkoltYFkMAwG11.uxANKxXw5MSytJY4)<br />[Notes](/files/30-3-23-simplicially-enriched.pdf) |
 | 6/4/23 - JCMB 5326 | Iordanis Romaidis | Anodyne maps and fibrations<br />*Land: Section 1.3* | [Recording](https://ed-ac-uk.zoom.us/rec/share/CWy5xW-kdL_eWoG7ROqtL7lCGN_p5BhRfw_oLE1Ug4rCAw54YZwgAkxepwPQDKiC.bdC-mgVY6UJclgl_)<br />[Notes](/files/27-4-23-anodyne-fibrations.pdf) |
 | 13/4/23 - JCMB 5323 | Malthe Sporring | Joins and slices<br />*Land: Section 1.4* |                     |
-| 20/4/23 - JCMB 5323 |                   | Joyal's lifting theorem, and functors<br />*Land: Section 2.1-2.3* |                     |
-| 27/4/23 - JCMB 5323 | Willow Bevington | Localisations and fat joins & slices<br />*Land: Section 2.4-2.5* |                     |
+| 20/4/23 - JCMB 5323 | Willow Bevington | Joyal's lifting theorem, and functors<br />*Land: Section 2.1-2.3* |                     |
+| 27/4/23 - JCMB 5323 |  | Localisations and fat joins & slices<br />*Land: Section 2.4-2.5* |                     |
 | 4/5/23 - JCMB 5323 | Willow Bevington | (Co)cartesian fibrations and straightening-unstraightening<br />*Land: Chapter 3*<br /> |                     |
 | 11/5/23 - JCMB 5323 |  | The Yoneda lemma<br />*Land: Section 4.1-4.2* |                     |
 | 18/5/23 - JCMB 5323 | Malthe Sporring | Limits and colimits<br />*Land: Section 4.3-4.4* |                     |
