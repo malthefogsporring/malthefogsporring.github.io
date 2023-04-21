@@ -9,7 +9,7 @@ ul.no-bullets {
   list-style-type: none;
 }
 </style>
-This is a reading group on ∞-categories in the model of quasi-categories, focusing on basic constructions. Our main references are "Introduction to Infinity-categories" by Markus Land, [Kerodon](https://kerodon.net/) by Jacob Lurie, and occasionally "Higher Topos Theory" by Jacob Lurie. We will take turns speaking - please volunteer!
+This is a reading group on ∞-categories in the model of quasi-categories, focusing on basic constructions. Our main reference is "Introduction to Infinity-categories" by Markus Land, other good references are [Kerodon](https://kerodon.net/) and "Higher Topos Theory" by Jacob Lurie. We will take turns speaking - please volunteer!
 
 We meet every Thursday at 2PM in JCMB 5323. Hybrid participation is also possible - please get in touch at Malthe (dot) Sporring (at) ed.ac.uk to be added to the mailing list.
 
@@ -25,12 +25,12 @@ The reading group is organized joint with [Willow Bevington](https://capnjackbev
 | 23/3/23 - JCMB 3211 | Malthe Sporring | Enriched categories<br />*Land: Section 1.2* | [Notes](/files/23-3-23-enriched-categories.pdf) |
 | 30/3/23 - JCMB 3211 | Adrián Doña Mateo | Simplicially enriched categories | [Recording](https://ed-ac-uk.zoom.us/rec/share/6hL4yVmRCQwQPU0ZJB0ILbbSQE14zyB0i-lmQ-rM4m9ivGuEcRLkoltYFkMAwG11.uxANKxXw5MSytJY4)<br />[Notes](/files/30-3-23-simplicially-enriched.pdf) |
 | 6/4/23 - JCMB 5326 | Iordanis Romaidis | Anodyne maps and fibrations<br />*Land: Section 1.3* | [Recording](https://ed-ac-uk.zoom.us/rec/share/CWy5xW-kdL_eWoG7ROqtL7lCGN_p5BhRfw_oLE1Ug4rCAw54YZwgAkxepwPQDKiC.bdC-mgVY6UJclgl_)<br />[Notes](/files/27-4-23-anodyne-fibrations.pdf) |
-| 13/4/23 - JCMB 5323 | Malthe Sporring | Joins and slices<br />*Land: Section 1.4* |                     |
-| 20/4/23 - JCMB 5323 | Willow Bevington | Joyal's lifting theorem, and functors<br />*Land: Section 2.1-2.3* |                     |
-| 27/4/23 - JCMB 5323 |  | Localisations and fat joins & slices<br />*Land: Section 2.4-2.5* |                     |
-| 4/5/23 - JCMB 5323 | Willow Bevington | (Co)cartesian fibrations and straightening-unstraightening<br />*Land: Chapter 3*<br /> |                     |
-| 11/5/23 - JCMB 5323 |  | The Yoneda lemma<br />*Land: Section 4.1-4.2* |                     |
-| 18/5/23 - JCMB 5323 | Malthe Sporring | Limits and colimits<br />*Land: Section 4.3-4.4* |                     |
-| 25/5/23 - JCMB 5323 |                   | Adjunctions<br />*Land: Chapter 5*        |                     |
-| 1/6/23 - |  | Additional topics            |                     |
+| 13/4/23 - JCMB 5323 | Malthe Sporring | Joins and slices<br />*Land: Section 1.4* | [Recording](https://ed-ac-uk.zoom.us/rec/share/GgLXpgoX-4gYxD0RmZsocTpYC6wcn9ZSYZmxn8qu9znv3HmAJQ4Ap-EI4Ps-J7ab.8nC6IT2z0J-En-G1) |
+| 20/4/23 - JCMB 5323 | Willow Bevington | Joyal's lifting theorem, and functors<br />*Land: Section 2.1-2.3* | [Recording](https://ed-ac-uk.zoom.us/rec/share/OBHHz63IaetPdlk_gv0SBBgoM3TtD7TOFvbGwJnD3xM7hOjGxtDJas81aKs0J2ak.Y0hZIF4-ETbElkvE) |
+| 27/4/23 - JCMB 5323 |  | Localisations<br />*Land: Section 2.4* |  |
+| 4/5/23 - JCMB 5323 |  | (Co)cartesian fibrations<br />*Land: Section 3.1* |  |
+| 11/5/23 - JCMB 5323 | Willow Bevington | Straightening-unstraightening<br />*Land: Section 3.2-3.3* |  |
+| 18/5/23 - JCMB 5323 |                   | The Yoneda Lemma<br />*Land: Section 4.1-4.2* |  |
+| 25/5/23 - JCMB 5323 | Malthe Sporring | Limits and colimits<br />*Land: Section 4.3* |  |
+| 1/6/23 - JCMB 5323 |  | Adjunctions<br />*Land: Chapter 5* |  |
 
