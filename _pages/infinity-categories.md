@@ -27,7 +27,7 @@ The reading group is organized joint with [Willow Bevington](https://capnjackbev
 | 6/4/23 - JCMB 5326 | Iordanis Romaidis | Anodyne maps and fibrations<br />*Land: Section 1.3* | [Recording](https://ed-ac-uk.zoom.us/rec/share/CWy5xW-kdL_eWoG7ROqtL7lCGN_p5BhRfw_oLE1Ug4rCAw54YZwgAkxepwPQDKiC.bdC-mgVY6UJclgl_)<br />[Notes](/files/27-4-23-anodyne-fibrations.pdf) |
 | 13/4/23 - JCMB 5323 | Malthe Sporring | Joins and slices<br />*Land: Section 1.4* | [Recording](https://ed-ac-uk.zoom.us/rec/share/GgLXpgoX-4gYxD0RmZsocTpYC6wcn9ZSYZmxn8qu9znv3HmAJQ4Ap-EI4Ps-J7ab.8nC6IT2z0J-En-G1)<br />[Notes](/files/13-4-23-joins-slices.pdf) |
 | 20/4/23 - JCMB 5323 | Willow Bevington | Joyal's lifting theorem, and functors<br />*Land: Section 2.1-2.3* | [Recording](https://ed-ac-uk.zoom.us/rec/share/OBHHz63IaetPdlk_gv0SBBgoM3TtD7TOFvbGwJnD3xM7hOjGxtDJas81aKs0J2ak.Y0hZIF4-ETbElkvE) |
-| 27/4/23 - JCMB 5323 |  | Localisations<br />*Land: Section 2.4*<br /> |  |
+| 27/4/23 - JCMB 5323 | Adrián Doña Mateo | Localisations<br />*Land: Section 2.4*<br /> |  |
 | 4/5/23 - JCMB 5323 |  | (Co)cartesian fibrations<br />*Land: Section 3.1* |  |
 | 11/5/23 - JCMB 5323 | Willow Bevington | Straightening-unstraightening<br />*Land: Section 3.2-3.3* |  |
 | 18/5/23 - JCMB 5323 |                   | The Yoneda Lemma<br />*Land: Section 4.1-4.2* |  |
