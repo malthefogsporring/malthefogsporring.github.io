@@ -17,6 +17,8 @@ The reading group is organized joint with [Willow Bevington](https://capnjackbev
 
 ### Schedule
 
+
+
 | Date and location        | Speaker           | Topic and references *(2022 numbering)*                | Notes and recording |
 | ------------------------ | ----------------- | ------------------------------------------------------------ | ------------------- |
 | 17/3/23 - Bayes 5.46 | Malthe Sporring | Sheaves<br />*Chapter 2* | [Notes](/files/17-3-23-sheaves.pdf)<br />[Recording](https://ed-ac-uk.zoom.us/rec/share/mKsKT7lPGb-CyqJTvqVzOn7CP84uhkW-vuTmV0RfR_wKE3OF5oRDMJ0Pmla9tZel.ElcfQDqbBQ8U7dXo) |
@@ -26,10 +28,10 @@ The reading group is organized joint with [Willow Bevington](https://capnjackbev
 | 14/4/23 - Bayes 5.46     | Parth Shimpi | Properties of schemes<br />*Chapter 5* | [Notes](/files/14-4-23-integrality.pdf) |
 | 21/4/23 - Appleton Tower 2.11 | David Cueto Noval | Morphisms of schemes<br />*Chapter 7* | [Recording](https://ed-ac-uk.zoom.us/rec/share/Egdhs-2JHfDw-x4AIK1UYe1y-jPDm8iUkNmDz0yc-gpF-fjukxixoag_IfyUaWA0.jqhWnC9GseueEclg) |
 | 28/4/23 - Bayes 4.45 | Hannah Dell | Classes of morphisms<br />*Chapter 8* |       |
-| 5/5/23 - Bayes 5.45 |  | Closed embeddings<br />*Chapter 9* |       |
-| 12/5/23 - Bayes 5.45 | Tuan Pham | Fibered products and base change<br />*Chapter 10* |       |
-| 19/5/23 - Bayes 5.46     | Yan Yau Cheng | Separated and proper morphisms<br />*Chapter 11* |       |
-| 26/5/23 - Bayes 5.46     | Isambard Goodbody | Regularity and smoothness<br />*Chapter 13* |       |
-| 2/6/23 - Bayes 5.46      | Karim Réga | Quasicoherent sheaves<br />*Chapter 6 & 14* |       |
+| 5/5/23 - Bayes 5.45 | Luke Naylor | Closed embeddings<br />*Chapter 9* |       |
+| 12/5/23 - No meeting | |  | |
+| 19/5/23 - Bayes 5.46 | Tuan Pham | Fibered products and base change<br />*Chapter 10* |       |
+| 26/5/23 - Bayes 5.46 | Yan Yau Cheng | Separated and proper morphisms<br />*Chapter 11* |       |
+| 2/6/23 - Bayes 5.46 | Karim Réga | Quasicoherent sheaves<br />*Chapter 6 & 14* |       |
 | More to come...? | | More on quasicoherent sheaves<br />*Chapter 15-19* :) | |
 
