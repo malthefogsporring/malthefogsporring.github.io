@@ -27,11 +27,10 @@ The reading group is organized joint with [Willow Bevington](https://capnjackbev
 | 7/4/23 - Bayes 5.46      | Karim Réga | The structure sheaf<br />*Chapter 4* | [Recording](https://ed-ac-uk.zoom.us/rec/share/QZvYb_Wp3ImbTJWlHVr_n_DYPdojf0u0HqrsNNS6_nH8LD2E0M7gN8AFUceqi-8E.ixfiV68rbRfFdfQQ)<br />[Notes](/files/7-4-23-structure-sheaf.pdf) |
 | 14/4/23 - Bayes 5.46     | Parth Shimpi | Properties of schemes<br />*Chapter 5* | [Notes](/files/14-4-23-integrality.pdf) |
 | 21/4/23 - Appleton Tower 2.11 | David Cueto Noval | Morphisms of schemes<br />*Chapter 7* | [Recording](https://ed-ac-uk.zoom.us/rec/share/Egdhs-2JHfDw-x4AIK1UYe1y-jPDm8iUkNmDz0yc-gpF-fjukxixoag_IfyUaWA0.jqhWnC9GseueEclg) |
-| 28/4/23 - Bayes 4.45 | Hannah Dell | Classes of morphisms<br />*Chapter 8* |       |
+| 28/4/23 - Bayes 4.45 | Hannah Dell | Classes of morphisms<br />*Chapter 8* | [Notes](/files/28-4-23-pieces-of-eight/pdf)<br />[Recording](https://ed-ac-uk.zoom.us/rec/share/-9aBIRIMTbv_H6j5_SmHaQi0sMjQBPPSx0dighDdBxTX1sXYNs6gIIPhOI-bDRuS.TBfoLpFxhApNo8BI) |
 | 5/5/23 - Bayes 5.45 | Luke Naylor | Closed embeddings<br />*Chapter 9* |       |
 | 12/5/23 - No meeting | |  | |
 | 19/5/23 - Bayes 5.46 | Tuan Pham | Fibered products and base change<br />*Chapter 10* |       |
 | 26/5/23 - Bayes 5.46 | Yan Yau Cheng | Separated and proper morphisms<br />*Chapter 11* |       |
 | 2/6/23 - Bayes 5.46 | Karim Réga | Quasicoherent sheaves<br />*Chapter 6 & 14* |       |
-| More to come...? | | More on quasicoherent sheaves<br />*Chapter 15-19* :) | |
-
+| More to come...?              |                   |                                                    |                                                              |
