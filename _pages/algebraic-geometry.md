@@ -30,7 +30,7 @@ The reading group is organized joint with [Willow Bevington](https://capnjackbev
 | 28/4/23 - Bayes 4.45 | Hannah Dell | Classes of morphisms<br />*Chapter 8* | [Notes](/files/28-4-23-pieces-of-eight/pdf)<br />[Recording](https://ed-ac-uk.zoom.us/rec/share/-9aBIRIMTbv_H6j5_SmHaQi0sMjQBPPSx0dighDdBxTX1sXYNs6gIIPhOI-bDRuS.TBfoLpFxhApNo8BI) |
 | 5/5/23 - Bayes 5.45 | Luke Naylor | Closed embeddings<br />*Chapter 9* |       |
 | 12/5/23 - No meeting | |  | |
-| 19/5/23 - Bayes 5.46 | Tuan Pham | Fibered products and base change<br />*Chapter 10* |       |
+| 19/5/23 - Bayes 5.46 | Parth Shimpi | Fibered products and base change<br />*Chapter 10* |       |
 | 26/5/23 - Bayes 5.46 | Yan Yau Cheng | Separated and proper morphisms<br />*Chapter 11* |       |
 | 2/6/23 - Bayes 5.46 | Karim Réga | Quasicoherent sheaves<br />*Chapter 6 & 14* |       |
 | More to come...?              |                   |                                                    |                                                              |
