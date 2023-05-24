@@ -11,7 +11,7 @@ ul.no-bullets {
 </style>
 Sequel to our reading group on "Commutative algebra with a view towards algebraic geometry" by David Eisenbud, this is a reading group on algebraic geometry following ["The Rising Sea"](http://math.stanford.edu/~vakil/216blog/FOAGaug2922public.pdf)) (**Note:** new version) by Ravi Vakil. No longer are we content with just "a view towards algebraic geometry" - we are diving in head-first!
 
-We meet on Fridays at 2PM for talks, and Wednesdays at TBD for exercises. Hybrid participation is also possible - please get in touch at Malthe (dot) Sporring (at) ed.ac.uk to be added to the mailing list.
+We meet on Fridays at 2PM for talks, and Wednesdays at 1PM in Bayes 5.45 for exercises. Hybrid participation is also possible - please get in touch at Malthe (dot) Sporring (at) ed.ac.uk to be added to the mailing list.
 
 The reading group is organized joint with [Willow Bevington](https://capnjackbevs.github.io/).
 
@@ -30,7 +30,7 @@ The reading group is organized joint with [Willow Bevington](https://capnjackbev
 | 28/4/23 - Bayes 4.45 | Hannah Dell | Classes of morphisms<br />*Chapter 8* | [Notes](/files/28-4-23-pieces-of-eight/pdf)<br />[Recording](https://ed-ac-uk.zoom.us/rec/share/-9aBIRIMTbv_H6j5_SmHaQi0sMjQBPPSx0dighDdBxTX1sXYNs6gIIPhOI-bDRuS.TBfoLpFxhApNo8BI) |
 | 5/5/23 - Bayes 5.45 | Luke Naylor | Closed embeddings<br />*Chapter 9* |       |
 | 12/5/23 - No meeting | |  | |
-| 19/5/23 - Bayes 5.46 | Parth Shimpi | Fibered products and base change<br />*Chapter 10* |       |
+| 19/5/23 - Bayes 5.46 | Parth Shimpi | Fibered products and base change<br />*Chapter 10* | [Recording](https://ed-ac-uk.zoom.us/rec/share/NbyjG8OQkQy88Se8Ru7zRWjdXCR6mr520BZSd6n05CXp2uJsIKWEu0wmX4dXnyd5.CZSirPdMhstzUvD4) |
 | 26/5/23 - Bayes 5.46 | Yan Yau Cheng | Separated and proper morphisms<br />*Chapter 11* |       |
 | 2/6/23 - Bayes 5.46 | Karim Réga | Quasicoherent sheaves<br />*Chapter 6 & 14* |       |
 | More to come...?              |                   |                                                    |                                                              |
