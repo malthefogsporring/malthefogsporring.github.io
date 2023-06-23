@@ -12,8 +12,7 @@ ul.no-bullets {
   list-style-type: none;
 }
 </style>
-
-I am a PhD student of <a href="https://www.maths.ed.ac.uk/~cbarwick/" target="_blank">Clark Barwick</a> at the University of Edinburgh. I am interested in homotopy theory, in particular homotopy groups of spheres, chromatic homotopy theory, condensed/pyknotic mathematics, and (higher) category theory. I am also an experienced user of the online assessment system <a href="https://stack-assessment.org/" target="_blank" rel="noopener noreferrer">STACK</a>. When I'm not thinking about mathematics, I may be swing dancing or bouldering.
+I am a PhD student of <a href="https://www.maths.ed.ac.uk/~cbarwick/" target="_blank">Clark Barwick</a> at the University of Edinburgh. I am interested in homotopy theory and (higher) category theory. I am also an experienced user of the online assessment system <a href="https://stack-assessment.org/" target="_blank" rel="noopener noreferrer">STACK</a>. When I'm not thinking about mathematics, I may be swing dancing or bouldering.
 
 <details><summary><h1>Notes</h1></summary>
 Informal notes on various topics. Comments and corrections are welcomed.
