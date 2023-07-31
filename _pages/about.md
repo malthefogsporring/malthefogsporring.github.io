@@ -40,6 +40,7 @@ Informal notes on various topics. Comments and corrections are welcomed.
 </details>
 <details><summary><h1>Reading groups</h1>
 </summary>
+  <ul><li>(Summer 2023) <b>Coend calculus (Cofriends) with <a href="https://capnjackbevs.github.io/" target="_blank">Willow Bevington</a> and Adrián Doña Mateo.</li>
   <ul><li>(Spring 2023) <b><a href ="https://malthefogsporring.github.io/algebraic-geometry/">Algebraic geometry (Eisenboaties)</a></b> with <a href="https://capnjackbevs.github.io/" target="_blank">Willow Bevington</a>.</li>
       <li>(Spring 2023) <b><a href ="https://malthefogsporring.github.io/infinity-categories/">∞-categories</a></b> with <a href="https://capnjackbevs.github.io/" target="_blank">Willow Bevington</a> and Adrián Doña Mateo.</li>
   <li>(Spring 2023) <b><a href ="https://capnjackbevs.github.io/cht.html" target="_blank">Chromatic homotopy theory</a></b> with <a href="https://www.maths.ed.ac.uk/~cbarwick/" target="_blank">Clark Barwick</a> and <a href="https://capnjackbevs.github.io/" target="_blank">Willow Bevington</a>.</li>
