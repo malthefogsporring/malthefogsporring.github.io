@@ -14,6 +14,8 @@ ul.no-bullets {
 </style>
 I am a PhD student of <a href="https://www.maths.ed.ac.uk/~cbarwick/" target="_blank">Clark Barwick</a> at the University of Edinburgh. I am interested in homotopy theory and (higher) category theory. I am also an experienced user of the online assessment system <a href="https://stack-assessment.org/" target="_blank" rel="noopener noreferrer">STACK</a>. When I'm not thinking about mathematics, I may be swing dancing or bouldering.
 
+**New stuff:** I wrote some <a href = "https://raw.githubusercontent.com/malthefogsporring/coends/main/main.pdf" target="_blank" rel="noopener noreferrer">notes on (co)ends</a>.
+
 <details><summary><h1>Notes</h1></summary>
 Informal notes on various topics. Comments and corrections are welcomed.
 <br>
