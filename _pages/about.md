@@ -12,7 +12,7 @@ ul.no-bullets {
   list-style-type: none;
 }
 </style>
-I am a PhD student of <a href="https://www.maths.ed.ac.uk/~cbarwick/" target="_blank">Clark Barwick</a> at the University of Edinburgh. I am interested in homotopy theory and (higher) category theory. I am also an experienced user of the online assessment system <a href="https://stack-assessment.org/" target="_blank" rel="noopener noreferrer">STACK</a>. When I'm not thinking about mathematics, I may be swing dancing or bouldering.
+I am a PhD student of <a href="https://www.maths.ed.ac.uk/~cbarwick/" target="_blank">Clark Barwick</a> at the University of Edinburgh. I am interested in homotopy theory and (higher) category theory. I am also interested in automatic theorem proving via <a href="https://leanprover.github.io/" rel="noopener noreferrer">LEAN</a> and automatic mathematics assessment via <a href="https://stack-assessment.org/" target="_blank" rel="noopener noreferrer">STACK</a>. When I'm not thinking about mathematics, I may be swing dancing or bouldering.
 
 **New stuff:** I wrote some <a href = "https://raw.githubusercontent.com/malthefogsporring/coends/main/main.pdf" target="_blank" rel="noopener noreferrer">notes on (co)ends</a>.
 
@@ -40,7 +40,14 @@ Informal notes on various topics. Comments and corrections are welcomed.
 </summary>
 	<h3>Tutoring - Edinburgh</h3>
     <ul><li>(Spring 2023) Algebraic Topology</li><li>(Spring 2023) Fundamentals of Pure Mathematics</li></ul>
+<h3>Other</h3>
+<ul>
+    <li>(Fall 2023) I am mentoring a project for <a href="https://sites.google.com/view/twoples/home"_blank">Twoples</a> - an online directed reading program for maths undergraduates.</li>
+</ul>
 </details>
+
+
+
 
 <details>
 <summary><h1>Reading groups</h1>
@@ -63,7 +70,6 @@ Informal notes on various topics. Comments and corrections are welcomed.
   <tr><td>October 2022</td> <td><b><a href = "https://www.mpim-bonn.mpg.de/node/11136" target="_blank">Conference on "Algebraic Topology, in memory of Hans-Joachim Baues"</a></b></td><td>Bonn</td></tr></table>
 </details>-->
 
-
 <details><summary><h1>STACK</h1></summary>
 STACK is an open source online assessment system for STEM subjects. I have been involved in STACK since 2019 - here are some of my contributions:
 <ul>
@@ -72,6 +78,7 @@ STACK is an open source online assessment system for STEM subjects. I have been 
   <li>Developing a <a href="http://docs.stack-assessment.org/en/Authoring/Authoring_quick_start/" target="_blank" rel="noopener noreferrer">video tutorial series</a>.</li>
   <li>Designing STACK quizzes for The University of Edinburgh, Heriot-Watt University and The University of Glasgow.</li></ul>
 </details>
+
 
 <details><summary><h1>Contact</h1></summary>
 My email address is Malthe (dot) Sporring (at) ed.ac.uk</details>

@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Home"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Malthe Sporring"
 description              : &description "personal description"
