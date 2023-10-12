@@ -39,12 +39,18 @@ Informal notes on various topics. Comments and corrections are welcomed.
 <details><summary><h1>Teaching</h1>
 </summary>
 	<h3>Tutoring - Edinburgh</h3>
-    <ul><li>(Spring 2023) Algebraic Topology</li><li>(Spring 2023) Fundamentals of Pure Mathematics</li></ul>
+    <ul>
+        <li>(Fall 2023) Category Theory</li>
+        <li>(Fall 2023) Honours Analysis - Skills</li>
+        <li>(Fall 2023) MathsBase</li>
+        <li>(Spring 2023) Algebraic Topology</li>
+        <li>(Spring 2023) Fundamentals of Pure Mathematics</li></ul>
 <h3>Other</h3>
 <ul>
-    <li>(Fall 2023) I am mentoring a project for <a href="https://sites.google.com/view/twoples/home"_blank">Twoples</a> - an online directed reading program for maths undergraduates.</li>
+    <li>(Fall 2023) I am mentoring a project for <a href="https://sites.google.com/view/twoples/home" target="_blank">Twoples</a> - an online directed reading program for maths undergraduates.</li>
 </ul>
 </details>
+
 
 
 
