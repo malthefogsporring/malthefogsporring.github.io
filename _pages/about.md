@@ -12,9 +12,7 @@ ul.no-bullets {
   list-style-type: none;
 }
 </style>
-I am a PhD student of <a href="https://www.maths.ed.ac.uk/~cbarwick/" target="_blank">Clark Barwick</a> at the University of Edinburgh. I am interested in homotopy theory and (higher) category theory. I am also interested in automatic theorem proving via <a href="https://leanprover.github.io/" rel="noopener noreferrer">LEAN</a> and automatic mathematics assessment via <a href="https://stack-assessment.org/" target="_blank" rel="noopener noreferrer">STACK</a>. When I'm not thinking about mathematics, I may be swing dancing or bouldering.
-
-**New stuff:** I wrote some <a href = "https://raw.githubusercontent.com/malthefogsporring/coends/main/main.pdf" target="_blank" rel="noopener noreferrer">notes on (co)ends</a>.
+I am a PhD student of <a href="https://www.maths.ed.ac.uk/~cbarwick/" target="_blank">Clark Barwick</a> at the University of Edinburgh. I am interested in homotopy theory and (higher) category theory. I am also interested in theorem proving via <a href="https://leanprover.github.io/" rel="noopener noreferrer">LEAN</a> and automated assessment via <a href="https://stack-assessment.org/" target="_blank" rel="noopener noreferrer">STACK</a>. When I'm not thinking about mathematics, I may be swing dancing or bouldering.
 
 <details><summary><h1>Notes</h1></summary>
 Informal notes on various topics. Comments and corrections are welcomed.
@@ -47,9 +45,10 @@ Informal notes on various topics. Comments and corrections are welcomed.
         <li>(Spring 2023) Fundamentals of Pure Mathematics</li></ul>
 <h3>Other</h3>
 <ul>
-    <li>(Fall 2023) I am mentoring a project for <a href="https://sites.google.com/view/twoples/home" target="_blank">Twoples</a> - an online directed reading program for maths undergraduates.</li>
+    <li>(Fall 2023) I am mentoring a project on algebraic topology for <a href="https://sites.google.com/view/twoples/home" target="_blank">Twoples</a>, an online directed reading program for maths undergraduates.</li>
 </ul>
 </details>
+
 
 
 
