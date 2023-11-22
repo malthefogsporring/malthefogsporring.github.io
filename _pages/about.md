@@ -84,6 +84,3 @@ STACK is an open source online assessment system for STEM subjects. I have been 
   <li>Designing STACK quizzes for The University of Edinburgh, Heriot-Watt University and The University of Glasgow.</li></ul>
 </details>
 
-
-<details><summary><h1>Contact</h1></summary>
-My email address is Malthe (dot) Sporring (at) ed.ac.uk</details>
