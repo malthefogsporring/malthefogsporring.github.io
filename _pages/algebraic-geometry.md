@@ -33,4 +33,3 @@ The reading group is organized joint with [Willow Bevington](https://capnjackbev
 | 19/5/23 - Bayes 5.46 | Parth Shimpi | Fibered products and base change<br />*Chapter 10* | [Recording](https://ed-ac-uk.zoom.us/rec/share/NbyjG8OQkQy88Se8Ru7zRWjdXCR6mr520BZSd6n05CXp2uJsIKWEu0wmX4dXnyd5.CZSirPdMhstzUvD4) |
 | 26/5/23 - Bayes 5.45 | Yan Yau Cheng | Separated and proper morphisms<br />*Chapter 11* | [Recording](https://ed-ac-uk.zoom.us/rec/share/-lblIwnZb91w7kuYvCw80RPEytyWnwyl80KnqWqiMh9nIjia4G7XvRedh4cS_y-5.VRwYX3vSV9SwiHuh) |
 | 2/6/23 - Bayes 5.45 | Parth Shimpi | Additional topics |       |
-| On summer break. More to come! |                   |                                                    |                                                              |

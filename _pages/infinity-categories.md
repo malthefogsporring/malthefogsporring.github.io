@@ -29,5 +29,4 @@ The reading group is organized joint with [Willow Bevington](https://capnjackbev
 | 20/4/23 - JCMB 5323 | Willow Bevington | Joyal's lifting theorem, and functors<br />*Land: Section 2.1-2.3* | [Recording](https://ed-ac-uk.zoom.us/rec/share/OBHHz63IaetPdlk_gv0SBBgoM3TtD7TOFvbGwJnD3xM7hOjGxtDJas81aKs0J2ak.Y0hZIF4-ETbElkvE) |
 | 27/4/23 - JCMB 5323 | Adrián Doña Mateo | Localisations<br />*Land: Section 2.4*                       | [Recording](https://ed-ac-uk.zoom.us/rec/share/UZl6niSSKFnZXQDLlsI5CYHDIbJQ-t-PIpvHMBRBejEhgiHjpk1iP5dtkcVLFmob.Id73IJKI2LsbLW_E) |
 | 4/5/23 - JCMB 5323 | Iordanis Romaidis | (Co)cartesian fibrations<br />*Land: Section 3.1* | [Recording](https://ed-ac-uk.zoom.us/rec/share/IhpkXc88n8L1nH5UTafwn_Ui1JaTcrtRwsGqqqhmyYW984_fxI726NGwpfKW-VWw.eG8wm9OpZyD1Nyrf) |
-| On summer break! More to come... |                   |                                                              |                                                              |
 

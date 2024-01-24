@@ -1,7 +1,4 @@
 # main links links
 main:
-- title: "∞-categories"
-  url: /infinity-categories
-
-- title: "Algebraic geometry"
-  url: /algebraic-geometry
+- title: "(∞,n)-categories"
+  url: /infinity-n
