@@ -57,7 +57,8 @@ Informal notes on various topics. Comments and corrections are welcomed.
 <details>
 <summary><h1>Reading groups</h1>
 </summary>
-  <ul><li>(Summer 2023) <b>Coend calculus (Cofriends)</b> with <a href="https://capnjackbevs.github.io/" target="_blank">Willow Bevington</a> and Adrián Doña Mateo.</li>
+    <ul><li>(Spring 2024) <b><a href="https://malthefogsporring.github.io/algebraic-geometry/">(∞,n)-categories</a></b> with <a href="https://capnjackbevs.github.io/" target="_blank">Willow Bevington</a>.</li>
+      <li>(Summer 2023) <b>Coend calculus (Cofriends)</b> with <a href="https://capnjackbevs.github.io/" target="_blank">Willow Bevington</a> and Adrián Doña Mateo.</li>
   <li>(Spring 2023) <b><a href ="https://malthefogsporring.github.io/algebraic-geometry/">Algebraic geometry (Eisenboaties)</a></b> with <a href="https://capnjackbevs.github.io/" target="_blank">Willow Bevington</a>.</li>
       <li>(Spring 2023) <b><a href ="https://malthefogsporring.github.io/infinity-categories/">∞-categories</a></b> with <a href="https://capnjackbevs.github.io/" target="_blank">Willow Bevington</a> and Adrián Doña Mateo.</li>
   <li>(Spring 2023) <b><a href ="https://capnjackbevs.github.io/cht.html" target="_blank">Chromatic homotopy theory</a></b> with <a href="https://www.maths.ed.ac.uk/~cbarwick/" target="_blank">Clark Barwick</a> and <a href="https://capnjackbevs.github.io/" target="_blank">Willow Bevington</a>.</li>
@@ -83,4 +84,3 @@ STACK is an open source online assessment system for STEM subjects. I have been 
   <li>Developing a <a href="http://docs.stack-assessment.org/en/Authoring/Authoring_quick_start/" target="_blank" rel="noopener noreferrer">video tutorial series</a>.</li>
   <li>Designing STACK quizzes for The University of Edinburgh, Heriot-Watt University and The University of Glasgow.</li></ul>
 </details>
-
