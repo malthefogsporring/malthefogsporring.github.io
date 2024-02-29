@@ -29,9 +29,11 @@ Informal notes on various topics. Comments and corrections are welcomed.
 
 <details><summary><h1>Talks</h1>
 </summary>
-  <ul><li><b>Topological K-Theory</b>. <a href = "https://hodge.maths.ed.ac.uk/tiki/Hodge+Club" target="_blank" rel="noopener noreferrer">Hodge Club</a> (February 2023).</li>
+  <ul><li><b>∞-operads and operator categories</b>. <a href = "https://www.maths.ed.ac.uk/~adona/seminar.html" target="_blank" rel="noopener noreferrer">Edinburgh Category Theory Seminar</a> (March 2024).</li>
+      <li><b>Topological K-Theory</b>. <a href = "https://hodge.maths.ed.ac.uk/tiki/Hodge+Club" target="_blank" rel="noopener noreferrer">Hodge Club</a> (February 2023).</li>
   <li><a href = "/files/ultrafilter.pdf" target="_blank" rel="noopener noreferrer"><img src="../images/pdf25.png" alt="png"></a><b>The ultrafilter monad</b>. GLaMS Example showcase (November 2022).</li></ul>
 </details>
+
 
 
 <details><summary><h1>Teaching</h1>
