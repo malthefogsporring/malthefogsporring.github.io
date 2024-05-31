@@ -29,8 +29,10 @@ Informal notes on various topics. Comments and corrections are welcomed.
 
 <details><summary><h1>Talks</h1>
 </summary>
-  <ul><li><b>∞-operads and operator categories</b>. <a href = "https://www.maths.ed.ac.uk/~adona/seminar.html" target="_blank" rel="noopener noreferrer">Edinburgh Category Theory Seminar</a> (March 2024).</li>
-      <li><b>Topological K-Theory</b>. <a href = "https://hodge.maths.ed.ac.uk/tiki/Hodge+Club" target="_blank" rel="noopener noreferrer">Hodge Club</a> (February 2023).</li>
+  <ul><li><details><summary><b>∞-operads and operator categories</b>. <a href = "https://www.maths.ed.ac.uk/~adona/seminar.html" target="_blank" rel="noopener noreferrer">Edinburgh Category Theory Seminar</a> (March 2024).</summary>Operads are combinatorial gadgets that control algebraic theories. They were first introduced by Boardman-Vogt and May to classify homotopy types of iterated loop spaces and have since become an invaluable tool for doing categorical algebra. Their ∞-categorical incarnation, ∞-operads, subsumes the classical notion and has been a major player in the recent renaissance of homotopy-coherent algebra. 
+
+The theory of ∞-operads is controlled by the category of pointed finite sets. Naturally, one may ask which categories give rise to an "operad-like" theory. As an answer to this question, I will describe Barwick's notion of an operator category φ and its associaated theory of φ-operads. This is a natural generalization of ∞-operads, subsuming many known variants of the notion, for example non-symmetric operads.</details></li>
+      <li><details><summary><b>Topological K-Theory</b>. <a href = "https://hodge.maths.ed.ac.uk/tiki/Hodge+Club" target="_blank" rel="noopener noreferrer">Hodge Club</a> (February 2023).</summary>Topological K-Theory is a generalized cohomology theory that captures information about vector bundles over a space. To build it, we first consider the Groethendieck group of C(X)-algebras, then extend this to a cohomology theory using suspensions. Alternatively, like any (co)homology theory, we can build a spectrum that represents it. The latter view illuminates the following important property of K-Theory: it controls the second cohomology theory in an infinite approximation of the stable homotopy groups of spheres.</details></li>
   <li><a href = "/files/ultrafilter.pdf" target="_blank" rel="noopener noreferrer"><img src="../images/pdf25.png" alt="png"></a><b>The ultrafilter monad</b>. GLaMS Example showcase (November 2022).</li></ul>
 </details>
 

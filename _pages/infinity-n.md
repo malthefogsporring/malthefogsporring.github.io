@@ -21,5 +21,5 @@ This is a reading group on (∞,n)-categories and applications. Talks are 90 min
 | 2-4PM Friday Mar 22nd <br />Bayes 5.46 | Lucy Spouncer | Factorisation homology and TQFTs | Tanaka, [Lectures on Factorization Homology](https://arxiv.org/abs/1907.00066) |
 | 2-4PM Friday Mar 29th <br />Bayes 5.46 | Benjamin Hajoun | The (∞,n)-category of cobordisms | Calaque, Scheimbauer [A note on the (∞,*n*)-category of cobordisms](https://arxiv.org/abs/1509.08906)<br />Part 2<br />Scheimbauer [Factorization Homology as a Fully Extended Topological Field Theory](http://www.scheimbauer.at/ScheimbauerThesis.pdf)<br />Part 2 |
 | 2PM Friday April 12th <br />Bayes 5.46 | Iordanis Romaidis | The Morita (∞,n)-category of E_n algebras | Scheimbauer [Factorization Homology as a Fully Extended Topological Field Theory](http://www.scheimbauer.at/ScheimbauerThesis.pdf)<br />Part 3 |
-| 2PM Friday April 26th<br />TBD | Patrick Kinnear | Factorisation homology as a fully extended TQFT | Scheimbauer [Factorization Homology as a Fully Extended Topological Field Theory](http://www.scheimbauer.at/ScheimbauerThesis.pdf)<br />Part 4 |
+| 2PM Friday June 21st<br />TBD | Willow Bevington | Factorisation homology as a fully extended TQFT | Scheimbauer [Factorization Homology as a Fully Extended Topological Field Theory](http://www.scheimbauer.at/ScheimbauerThesis.pdf)<br />Part 4 |
 
