@@ -12,7 +12,7 @@ ul.no-bullets {
   list-style-type: none;
 }
 </style>
-I am a PhD student of <a href="https://www.maths.ed.ac.uk/~cbarwick/" target="_blank">Clark Barwick</a> at the University of Edinburgh. I am interested in homotopy theory and (higher) category theory. I am also interested in theorem proving via <a href="https://leanprover.github.io/" rel="noopener noreferrer">LEAN</a> and automated assessment via <a href="https://stack-assessment.org/" target="_blank" rel="noopener noreferrer">STACK</a>. When I'm not thinking about mathematics, I may be swing dancing or bouldering.
+I am a PhD student of <a href="https://www.maths.ed.ac.uk/~cbarwick/" target="_blank">Clark Barwick</a> at the University of Edinburgh. I am interested in homotopy theory and infinity-categories, especially topics related to infinity-operads and chromatic homotopy theory. I am an experienced user of the automatic mathematics assessment system <a href="https://stack-assessment.org/" target="_blank" rel="noopener noreferrer">STACK</a>. When I'm not thinking about mathematics, I may be swing dancing or bouldering.
 
 <details><summary><h1>Notes</h1></summary>
 Informal notes on various topics. Comments and corrections are welcomed.
@@ -42,11 +42,14 @@ The theory of ∞-operads is controlled by the category of pointed finite sets. 
 </summary>
 	<h3>Tutoring - Edinburgh</h3>
     <ul>
+        <li>(Autumn 2024) Accelerated Proofs and Problem Solving</li>
+        <li>(Autumn 2024) Axiomatic Set Theory</li>
+        <li>(Autumn 2024) MathsBase</li>
         <li>(Spring 2024) Honour Algebra - Skills</li>
         <li>(Spring 2024) Proofs and Problem Solving</li>
-        <li>(Fall 2023) Category Theory</li>
-        <li>(Fall 2023) Honours Analysis - Skills</li>
-        <li>(Fall 2023) MathsBase</li>
+        <li>(Autumn 2023) Category Theory</li>
+        <li>(Autumn 2023) Honours Analysis - Skills</li>
+        <li>(Autumn 2023) MathsBase</li>
         <li>(Spring 2023) Algebraic Topology</li>
         <li>(Spring 2023) Fundamentals of Pure Mathematics</li></ul>
 <h3>Other</h3>
