@@ -14,6 +14,9 @@ ul.no-bullets {
 </style>
 I am a PhD student of <a href="https://www.maths.ed.ac.uk/~cbarwick/" target="_blank">Clark Barwick</a> at the University of Edinburgh. I am interested in homotopy theory and infinity-categories, especially topics related to infinity-operads and chromatic homotopy theory. I am an experienced user of the automatic mathematics assessment system <a href="https://stack-assessment.org/" target="_blank" rel="noopener noreferrer">STACK</a>. When I'm not thinking about mathematics, I may be swing dancing or bouldering.
 
+<details><summary><h1>Papers</h1></summary>
+<img src="../images/ifihadone.png" alt="This is where I'd put my papers. If I had one.">
+</details>
 <details><summary><h1>Notes</h1></summary>
 Informal notes on various topics. Comments and corrections are welcomed.
 <br>
