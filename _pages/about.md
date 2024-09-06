@@ -43,36 +43,36 @@ The theory of ∞-operads is controlled by the category of pointed finite sets. 
 
 <details><summary><h1>Teaching</h1>
 </summary>
-	<h3>Tutoring - Edinburgh</h3>
-    <ul>
-        <li><b>Autumn 2024</b>
+	<h3>Tutoring - University of Edinburgh</h3>
+        <b>Autumn 2024</b>
             <ul>
         		<li>Accelerated Proofs and Problem Solving</li>
         		<li>Axiomatic Set Theory</li>
         		<li>MathsBase</li>
             </ul>
-        <li><b>Spring 2024</b>
+        <b>Spring 2024</b>
             <ul>
         		<li>Honour Algebra - Skills</li>
         		<li>Proofs and Problem Solving</li>
             </ul>
-        <li><b>Autumn 2023</b>
+        <b>Autumn 2023</b>
             <ul>
                 <li>Category Theory</li>
         		<li>Honours Analysis - Skills</li>
         		<li>MathsBase</li>
             </ul>
-        </li>
-        <li>Spring 2023
+    	<b>Spring 2023</b>
+            <ul>
             <li>Algebraic Topology</li>
         	<li>Fundamentals of Pure Mathematics</li>
-        </li>
-        </ul>
+            </ul>
 <h3>Other</h3>
 <ul>
-    <li>(Fall 2023) I am mentoring a project on algebraic topology for <a href="https://sites.google.com/view/twoples/home" target="_blank">Twoples</a>, an online directed reading program for maths undergraduates.</li>
+    <li>In Autumn 2023 I mentored a project on algebraic topology for <a href="https://sites.google.com/view/twoples/home" target="_blank">Twoples</a>, an online directed reading program for maths undergraduates.</li>
 </ul>
 </details>
+
+
 
 
 
@@ -111,4 +111,3 @@ STACK is an open source online assessment system for STEM subjects. I have been 
   <li>Developing a <a href="http://docs.stack-assessment.org/en/Authoring/Authoring_quick_start/" target="_blank" rel="noopener noreferrer">video tutorial series</a>.</li>
   <li>Designing STACK quizzes for The University of Edinburgh, Heriot-Watt University and The University of Glasgow.</li></ul>
 </details>
-
