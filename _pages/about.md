@@ -43,7 +43,7 @@ The theory of ∞-operads is controlled by the category of pointed finite sets. 
 
 <details><summary><h1>Teaching</h1>
 </summary>
-	<h3>Tutoring - University of Edinburgh</h3>
+	<h2>Tutoring - University of Edinburgh</h2><br>
         <b>Autumn 2024</b>
             <ul>
         		<li>Accelerated Proofs and Problem Solving</li>
@@ -66,11 +66,12 @@ The theory of ∞-operads is controlled by the category of pointed finite sets. 
             <li>Algebraic Topology</li>
         	<li>Fundamentals of Pure Mathematics</li>
             </ul>
-<h3>Other</h3>
+<h2>Other</h2>
 <ul>
     <li>In Autumn 2023 I mentored a project on algebraic topology for <a href="https://sites.google.com/view/twoples/home" target="_blank">Twoples</a>, an online directed reading program for maths undergraduates.</li>
 </ul>
 </details>
+
 
 
 
