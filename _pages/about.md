@@ -12,11 +12,12 @@ ul.no-bullets {
   list-style-type: none;
 }
 </style>
-I am a PhD student of <a href="https://www.maths.ed.ac.uk/~cbarwick/" target="_blank">Clark Barwick</a> at the University of Edinburgh. I am interested in homotopy theory and infinity-categories, especially topics related to infinity-operads and chromatic homotopy theory. I am an experienced user of the automatic mathematics assessment system <a href="https://stack-assessment.org/" target="_blank" rel="noopener noreferrer">STACK</a>. When I'm not thinking about mathematics, I may be swing dancing or bouldering.
+I am a PhD student of <a href="https://www.maths.ed.ac.uk/~cbarwick/" target="_blank">Clark Barwick</a> at the University of Edinburgh. I am interested in homotopy theory and infinity-categories, in particular infinity-operads and chromatic homotopy theory. I am an experienced user of the automatic mathematics assessment system <a href="https://stack-assessment.org/" target="_blank" rel="noopener noreferrer">STACK</a>. When I'm not thinking about mathematics, I may be swing dancing or bouldering.
 
 <!--<details><summary><h1>Papers</h1></summary>
 <img src="../images/ifihadone.png" alt="This is where I'd put my papers. If I had one.">
 </details>-->
+
 <details><summary><h1>Notes</h1></summary>
 Informal notes on various topics. Comments and corrections are welcomed.
 <br>
@@ -40,26 +41,39 @@ The theory of ∞-operads is controlled by the category of pointed finite sets. 
 </details>
 
 
-
 <details><summary><h1>Teaching</h1>
 </summary>
 	<h3>Tutoring - Edinburgh</h3>
     <ul>
-        <li>(Autumn 2024) Accelerated Proofs and Problem Solving</li>
-        <li>(Autumn 2024) Axiomatic Set Theory</li>
-        <li>(Autumn 2024) MathsBase</li>
-        <li>(Spring 2024) Honour Algebra - Skills</li>
-        <li>(Spring 2024) Proofs and Problem Solving</li>
-        <li>(Autumn 2023) Category Theory</li>
-        <li>(Autumn 2023) Honours Analysis - Skills</li>
-        <li>(Autumn 2023) MathsBase</li>
-        <li>(Spring 2023) Algebraic Topology</li>
-        <li>(Spring 2023) Fundamentals of Pure Mathematics</li></ul>
+        <li><b>Autumn 2024</b>
+            <ul>
+        		<li>Accelerated Proofs and Problem Solving</li>
+        		<li>Axiomatic Set Theory</li>
+        		<li>MathsBase</li>
+            </ul>
+        <li><b>Spring 2024</b>
+            <ul>
+        		<li>Honour Algebra - Skills</li>
+        		<li>Proofs and Problem Solving</li>
+            </ul>
+        <li><b>Autumn 2023</b>
+            <ul>
+                <li>Category Theory</li>
+        		<li>Honours Analysis - Skills</li>
+        		<li>MathsBase</li>
+            </ul>
+        </li>
+        <li>Spring 2023
+            <li>Algebraic Topology</li>
+        	<li>Fundamentals of Pure Mathematics</li>
+        </li>
+        </ul>
 <h3>Other</h3>
 <ul>
     <li>(Fall 2023) I am mentoring a project on algebraic topology for <a href="https://sites.google.com/view/twoples/home" target="_blank">Twoples</a>, an online directed reading program for maths undergraduates.</li>
 </ul>
 </details>
+
 
 
 
@@ -93,7 +107,8 @@ The theory of ∞-operads is controlled by the category of pointed finite sets. 
 STACK is an open source online assessment system for STEM subjects. I have been involved in STACK since 2019 - here are some of my contributions:
 <ul>
   <li>Designing the STACK website <a href="https://stack-assessment.org/" target="_blank" rel="noopener noreferrer">stack-assessment.org</a>.</li>
-  <li>Editing <a href="https://docs.stack-assessment.org/content/2019-cate-case-studies.pdf" target="_blank" rel="noopener noreferrer">a collection of case studies</a>.</li>
+  <li>Collating <a href="https://docs.stack-assessment.org/content/2019-cate-case-studies.pdf" target="_blank" rel="noopener noreferrer">a collection of case studies</a>.</li>
   <li>Developing a <a href="http://docs.stack-assessment.org/en/Authoring/Authoring_quick_start/" target="_blank" rel="noopener noreferrer">video tutorial series</a>.</li>
   <li>Designing STACK quizzes for The University of Edinburgh, Heriot-Watt University and The University of Glasgow.</li></ul>
 </details>
+
