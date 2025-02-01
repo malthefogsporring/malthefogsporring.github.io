@@ -12,7 +12,7 @@ ul.no-bullets {
   list-style-type: none;
 }
 </style>
-I am a PhD student of <a href="https://www.maths.ed.ac.uk/~cbarwick/" target="_blank">Clark Barwick</a> at the University of Edinburgh. I am interested in homotopy theory and infinity-categories, in particular infinity-operads and chromatic homotopy theory. I am an experienced user of the automatic mathematics assessment system <a href="https://stack-assessment.org/" target="_blank" rel="noopener noreferrer">STACK</a>. When I'm not thinking about mathematics, I may be swing dancing or bouldering.
+I am a PhD student of <a href="https://www.maths.ed.ac.uk/~cbarwick/" target="_blank">Clark Barwick</a> at the University of Edinburgh. I am interested in homotopy theory and infinity-categories. I am currently thinking about infinity-operads and Koszul duality. I am an experienced user of the automatic mathematics assessment system <a href="https://stack-assessment.org/" target="_blank" rel="noopener noreferrer">STACK</a>. When I'm not thinking about mathematics, I may be swing dancing or bouldering.
 
 <!--<details><summary><h1>Papers</h1></summary>
 <img src="../images/ifihadone.png" alt="This is where I'd put my papers. If I had one.">
@@ -44,7 +44,11 @@ The theory of ∞-operads is controlled by the category of pointed finite sets. 
 <details><summary><h1>Teaching</h1>
 </summary>
 	<h2>Tutoring - University of Edinburgh</h2><br>
-        <b>Autumn 2024</b>
+    	<b>Spring 2025</b>
+            <ul>
+        		<li>Calculus and its Applications</li>
+            </ul>    
+    	<b>Autumn 2024</b>
             <ul>
         		<li>Accelerated Proofs and Problem Solving</li>
         		<li>Axiomatic Set Theory</li>
