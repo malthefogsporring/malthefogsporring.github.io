@@ -33,6 +33,7 @@ Informal notes on various topics. Comments and corrections are welcomed.
 
 <details><summary><h1>Talks</h1>
 </summary>
+    <ul class="no-bullets">
 <li><b>TBD.</b> Aberdeen Postgraduate Student Research Seminar (April 2025)</li>
 <li><b>TBD.</b> Edinburgh Category Theory Seminar (February 2025)</li>
 <li><details><summary><b>(Co)ends in infinity-categories</b>. <a href = "https://hodge.maths.ed.ac.uk/?page_id=38" target="_blank" rel="noopener noreferrer">Hodge Club (Edinburgh)</a> (June 2024).</summary>(Co)ends are certain (co)limits associated to bifunctors of the form F: C^op x C -> D. As an example, let R be a ring viewed as an one-object Ab-enriched category so an R-bimodule M is just a functor M:R^op x R -> Ab. Then the end of this functor is the centre of M and the coend is the space of coinvariants. (Co)ends are both abundant and admit a sort of calculus, making them useful for a large class of categorical arguments. In this talk I will give an overview of (co)ends, and explain how the definition can be extended to the world of infinity-categories.</details></li>
@@ -41,6 +42,7 @@ The theory of ∞-operads is controlled by the category of pointed finite sets. 
       <li><details><summary><b>Topological K-Theory</b>. <a href = "https://hodge.maths.ed.ac.uk/?page_id=38" target="_blank" rel="noopener noreferrer">Hodge Club (Edinburgh)</a> (February 2023).</summary>Topological K-Theory is a generalized cohomology theory that captures information about vector bundles over a space. To build it, we first consider the Groethendieck group of C(X)-algebras, then extend this to a cohomology theory using suspensions. Alternatively, like any (co)homology theory, we can build a spectrum that represents it. The latter view illuminates the following important property of K-Theory: it controls the second cohomology theory in an infinite approximation of the stable homotopy groups of spheres.</details></li>
   <li><a href = "/files/ultrafilter.pdf" target="_blank" rel="noopener noreferrer"><img src="../images/pdf25.png" alt="png"></a><b>The ultrafilter monad</b>. GLaMS Example showcase (November 2022).</li></ul>
 </details>
+
 
 
 <details><summary><h1>Teaching</h1>
