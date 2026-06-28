@@ -12,7 +12,7 @@ ul.no-bullets {
   list-style-type: none;
 }
 </style>
-I am a PhD student of <a href="https://www.maths.ed.ac.uk/~cbarwick/" target="_blank">Clark Barwick</a> at the University of Edinburgh. I am interested in  homotopy theory and infinity-categories. I am currently thinking about twofold monoidal structures on infinity-categories. I am an experienced user of the automatic mathematics assessment system <a href="https://stack-assessment.org/" target="_blank" rel="noopener noreferrer">STACK</a>. When I'm not thinking about mathematics, I may be swing dancing or bouldering.
+I am a PhD student of <a href="https://www.maths.ed.ac.uk/~cbarwick/" target="_blank">Clark Barwick</a> at the University of Edinburgh. I am interested in  homotopy theory and infinity-categories. I am currently thinking about twofold monoidal structures on infinity-categories. I am also an experienced user of the automatic mathematics assessment system <a href="https://stack-assessment.org/" target="_blank" rel="noopener noreferrer">STACK</a>. Outside of mathematics I love to boulder and play the bass.
 
 <!--<details><summary><h1>Papers</h1></summary>
 <img src="../images/ifihadone.png" alt="This is where I'd put my papers. If I had one.">
@@ -29,7 +29,6 @@ Informal notes on various topics. Comments and corrections are welcomed.
 <li><details><summary><h3><a href = "https://raw.githubusercontent.com/malthefogsporring/persistent-homology/main/main.pdf" target="_blank" rel="noopener noreferrer"><img src="../images/pdf25.png" alt="png"></a> Persistent homology</h3></summary><blockquote> (December 2022) Notes on persistent homology, as part of a GlaMS (Glasgow-Maxwell school) group project. Joint with <a href="https://yanyauc.com/" target="_blank" rel="noopener noreferrer">Yan Yau Cheng</a> and Adrián Doña Mateo.</blockquote></details></li>  
 <li><details><summary><h3><a href = "https://raw.githubusercontent.com/malthefogsporring/homology/main/main.pdf" target="_blank" rel="noopener noreferrer"><img src="../images/pdf25.png" alt="png"></a> Axiomatic homology theory</h3></summary><blockquote> (September 2021) Undergraduate notes on axiomatic homology theory. Homology is typically introduced as singular homology, with theorems proven explicitly using chain calculations. We take a different approach, defining a homology theory axiomatically as by Eilenberg and Steenrod, and then proving classical theorems directly from the axioms. This project was supervised by Prof. Clark Barwick and funded by the University of Edinburgh School of Mathematics Vacation Scholarship and College Vacation Scholarship funds.</blockquote></details></li>
 </ul></details>
-
 
 <details><summary><h1>Talks</h1>
 </summary>
