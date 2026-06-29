@@ -45,7 +45,14 @@ The theory of ∞-operads is controlled by the category of pointed finite sets. 
 </details>
 
 
-
+<details>
+<summary><h1>Posters</h1>
+</summary>
+    <ul><li> <details><summary><b>The pre-monoidal envelope of an infinity-operad</b> Young Topologist Meeting (Copenhagen, Summer 2026)</summary>
+		<a href="/files/copenhagen_poster.pdf"><img src="/images/copenhagen_poster.png" style="width: 20vw" alt="A poster about pre-monoidal envelopes of infinity-operads.">]</a>
+	</li></ul>
+	</details>
+</details>
 
 
 <details><summary><h1>Teaching</h1>
@@ -81,14 +88,6 @@ The theory of ∞-operads is controlled by the category of pointed finite sets. 
 <ul>
     <li>In Autumn 2023 I mentored a project on algebraic topology for <a href="https://sites.google.com/view/twoples/home" target="_blank">Twoples</a>, an online directed reading program for maths undergraduates.</li>
 </ul>
-</details>
-
-<details>
-<summary><h1>Posters</h1>
-</summary>
-    <ul><li> <details><summary><b>The pre-monoidal envelope of an infinity-operad</b> Young Topologist Meeting (Copenhagen, Summer 2026)</summary>
-		<a href="/files/copenhagen_poster.pdf"><img src="/images/copenhagen_poster.png" style="width: 30vw" alt="A poster about pre-monoidal envelopes of infinity-operads.">]\/a|
-	</details></li></ul>
 </details>
 
 <!--<details>
