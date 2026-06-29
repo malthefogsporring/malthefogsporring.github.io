@@ -32,12 +32,12 @@ Informal notes on various topics. Comments and corrections are welcomed.
 
 <details><summary><h1>Talks</h1>
 </summary>
-<b> Invited talks</b>
+<h2> Invited talks</h2>
     <ul class="no-bullets">
 <li><details><summary><b>Twofold monoidal infinity-categories</b> Warwick Junior Algebra Seminar (March 2026)</summary>A twofold symmetric monoidal category is a category with two symmetric monoidal products, with the same unit, such that one product laxly distributes over the other. To make this definition work in the setting of infinity-categories, one may hope for a simple combinatorial category that controls the theory, similar to how finite sets control the theory of symmetric monoidal infinity-categories. Recently, Barwick has identified this category with a certain subcategory of the category of finite graphs. In my talk, I will give an overview of these ideas and describe some related constructions I'm thinking about. </details></li>
 <li><details><summary><b>Twofold monoidal structures</b> Aberdeen Postgraduate Research Seminar (May 2025)</summary>A twofold symmetric monoidal category is a category with two symmetric monoidal products, one of which laxly distributes over the other. Just as ordinary symmetric monoidal structures are controlled by the category of finite sets, twofold structures are controlled by the category of reflexive cographs, a certain subcategory of the category of graphs. This result is due to forthcoming work by Barwick. In this talk, I will give an overview of twofold structures and explain why you might care. Although the focus will be on infinity-categories, no prior knowledge about infinity-categories is expected. </details></li>
 	</ul>
-<b> Internal talks</b>
+<h2> Internal talks</h2>
 <ul class="no-bullets">
 		<li><details><summary><b>Operads as symmetric monoidal categories</b> <a href = "https://www.maths.ed.ac.uk/~adona/seminar.html" target="_blank" rel="noopener noreferrer">Edinburgh Category Theory Seminar</a> (February 2025)</summary>
 ∞-operads are gadgets for encoding homotopy-coherent algebraic structures. By a variant of the envelope functor, one can identify ∞-operads with certain symmetric monoidal ∞-categories equipped with a monoidal functor to FinSet. This result is due to Haugseng and Kock, and in my talk I will describe the proof and discuss some implications.</details></li>
