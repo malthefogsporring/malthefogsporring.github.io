@@ -83,17 +83,15 @@ The theory of ∞-operads is controlled by the category of pointed finite sets. 
 </ul>
 </details>
 
-
-
-
-
-
-
-
-
-
-
 <details>
+<summary><h1>Posters</h1>
+</summary>
+    <ul><li> <details><summary><b>The pre-monoidal envelope of an infinity-operad</b> Young Topologist Meeting (Copenhagen, Summer 2026)</summary>
+		[<img src="/images/copenhagen_poster.png" alt="A poster about pre-monoidal envelopes of infinity-operads.">](/files/copenhagen_poster.pdf)
+	</details></li></ul>
+</details>
+
+<!--<details>
 <summary><h1>Reading groups</h1>
 </summary>
     <ul><li>(Spring 2024) <b><a href="https://malthefogsporring.github.io/infinity-n/">(∞,n)-categories</a></b> with <a href="https://capnjackbevs.github.io/" target="_blank">Willow Bevington</a>.</li>
@@ -102,7 +100,7 @@ The theory of ∞-operads is controlled by the category of pointed finite sets. 
       <li>(Spring 2023) <b><a href ="https://malthefogsporring.github.io/infinity-categories/">∞-categories</a></b> with <a href="https://capnjackbevs.github.io/" target="_blank">Willow Bevington</a> and Adrián Doña Mateo.</li>
   <li>(Spring 2023) <b><a href ="https://capnjackbevs.github.io/cht.html" target="_blank">Chromatic homotopy theory</a></b> with <a href="https://www.maths.ed.ac.uk/~cbarwick/" target="_blank">Clark Barwick</a> and <a href="https://capnjackbevs.github.io/" target="_blank">Willow Bevington</a>.</li>
       <li>(Fall 2022) <b>Commutative algebra (Eisenbuddies)</b>with <a href="https://capnjackbevs.github.io/" target="_blank">Willow Bevington</a>.</li></ul>
-</details>
+</details>-->
 
 
 
