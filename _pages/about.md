@@ -66,6 +66,10 @@ The theory of ∞-operads is controlled by the category of pointed finite sets. 
 <details><summary><h1>Teaching</h1>
 </summary>
 	<h2>Tutoring - University of Edinburgh</h2><br>
+	<b>Autumn 2026</b>
+            <ul>
+        		<li>Introduction to Mathematics at University</li>
+            </ul>
     <b>Spring 2026</b>
             <ul>
         		<li>Honours Algebra</li>
