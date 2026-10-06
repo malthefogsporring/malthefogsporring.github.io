@@ -14,6 +14,10 @@ ul.no-bullets {
 </style>
 I am a PhD student of <a href="https://www.maths.ed.ac.uk/~cbarwick/" target="_blank">Clark Barwick</a> at the University of Edinburgh. I am interested in  homotopy theory and infinity-categories. I am currently thinking about twofold monoidal structures on infinity-categories. I am also an experienced user of the automatic mathematics assessment system <a href="https://stack-assessment.org/" target="_blank" rel="noopener noreferrer">STACK</a>. Outside of mathematics I love to boulder and play the bass.
 
+I am currently on the job market. Please see my <a href = "https://raw.githubusercontent.com/malthefogsporring/cv/main/main.pdf" target="_blank" rel="noopener noreferrer">Academic CV</a>.
+
+
+
 <!--<details><summary><h1>Papers</h1></summary>
 <img src="../images/ifihadone.png" alt="This is where I'd put my papers. If I had one.">
 </details>-->
