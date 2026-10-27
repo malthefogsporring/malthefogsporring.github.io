@@ -47,7 +47,7 @@ I will give an overview of this topic and sketch a proof that the natural adjunc
 	</ul>
 <h2> Internal talks</h2>
 <ul class="no-bullets">
-		<li><details><summary><b>Pre-monoidal structures</b>b> Edinburgh Category Theory Seminar (October 2026)</summary>A pre-monoidal structure on a category C is the data of, for every collection {x_i} of objects in C, a set ⊗{x_i} of "potential" tensor products, satisfying some natural axioms. This is a weakening of the notion of symmetric monoidal category, where such sets always contain exactly one point (the actual tensor product).
+		<li><details><summary><b>Pre-monoidal structures</b> Edinburgh Category Theory Seminar (October 2026)</summary>A pre-monoidal structure on a category C is the data of, for every collection {x_i} of objects in C, a set ⊗{x_i} of "potential" tensor products, satisfying some natural axioms. This is a weakening of the notion of symmetric monoidal category, where such sets always contain exactly one point (the actual tensor product).
 
 A motivating example is the following: given an object x of a symmetric monoidal category C, one cannot expect the slice category C/x to be symmetric monoidal. However, if the unit of C is initial, there is always a natural pre-monoidal structure on C/x. This was originally observed by Karlsson-Scheimbauer-Walde in their study of constructible factorisation algebras, where they used pre-monoidal structures to prove that constructible factorisation algebras can be defined on a multiplicative disk basis.
 
